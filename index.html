@@ -659,17 +659,35 @@
     }
 
     async function loadData() {
+        const CACHE_KEY = 'vlr_meta_data';
         try {
-            updateStatus('Scraping vlr.gg for recent pro match data...');
+            const cached = localStorage.getItem(CACHE_KEY);
+            if (cached) {
+                try {
+                    const parsed = JSON.parse(cached);
+                    if (parsed && parsed.length > 0) {
+                        allMatchDetails = parsed;
+                        processMapData();
+                        buildFilterButtons();
+                        renderAll();
+                        updateStatus('Loading newest data in background...');
+                    }
+                } catch(e) { console.error('Cache parsing error:', e); }
+            } else {
+                updateStatus('Scraping vlr.gg for recent pro match data...');
+            }
 
             // Fetch all match data in one call via our Python scraper
             const result = await fetchJSON('/api/full-data?pages=2&max=15');
 
             if (result.status !== 'success' || !result.matches || result.matches.length === 0) {
-                showError('No matches found. The scraper may have failed.');
+                if (!cached) showError('No matches found. The scraper may have failed.');
                 return;
             }
 
+            // Save to cache
+            localStorage.setItem(CACHE_KEY, JSON.stringify(result.matches));
+            
             updateStatus(`Processing ${result.matches.length} matches...`);
             allMatchDetails = result.matches;
 
@@ -677,10 +695,21 @@
             processMapData();
             buildFilterButtons();
             renderAll();
+            
+            if (cached) {
+                updateStatus('Data updated to latest!');
+                setTimeout(() => updateStatus(null), 3000);
+            }
 
         } catch (err) {
             console.error('Load error:', err);
-            showError('Failed to load data. ' + err.message);
+            const cached = localStorage.getItem('vlr_meta_data');
+            if (!cached) {
+                showError('Failed to load data. ' + err.message);
+            } else {
+                updateStatus('Failed to update data (using cache). ' + err.message);
+                setTimeout(() => updateStatus(null), 3000);
+            }
         }
     }
 

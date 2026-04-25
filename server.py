@@ -9,7 +9,7 @@ import time
 import html
 import threading
 
-PORT = 8080
+PORT = int(os.environ.get('PORT', 8080))
 VLR_BASE = 'https://www.vlr.gg'
 STATIC_DIR = os.path.dirname(os.path.abspath(__file__))
 
