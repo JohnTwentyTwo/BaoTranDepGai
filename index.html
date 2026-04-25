@@ -437,6 +437,22 @@
             font-weight: 500;
             color: var(--text-secondary);
         }
+        .watch-btn {
+            display: inline-block;
+            padding: 6px 12px;
+            background: rgba(255, 70, 85, 0.15);
+            color: var(--accent-red);
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 11px;
+            font-weight: 600;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+        .watch-btn:hover {
+            background: var(--accent-red);
+            color: white;
+        }
 
         /* ========== LOADING / EMPTY ========== */
         .loading-overlay {
@@ -596,10 +612,11 @@
                             <th>Team 1 Agents</th>
                             <th>Team 2 Agents</th>
                             <th>Event</th>
+                            <th>VOD</th>
                         </tr>
                     </thead>
                     <tbody id="matchesBody">
-                        <tr><td colspan="6" class="loading-text" style="text-align:center;padding:40px;">Loading matches...</td></tr>
+                        <tr><td colspan="7" class="loading-text" style="text-align:center;padding:40px;">Loading matches...</td></tr>
                     </tbody>
                 </table>
             </div>
@@ -730,6 +747,7 @@
                     team2: map.team2 || match.teams?.[1] || '?',
                     score: map.score || '?',
                     event: match.event || '',
+                    vod: match.vod || '',
                     agents
                 });
             });
@@ -836,7 +854,7 @@
     function renderMatchesTable(data) {
         const tbody = document.getElementById('matchesBody');
         if (data.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:var(--text-muted)">No match data.</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;padding:40px;color:var(--text-muted)">No match data.</td></tr>';
             return;
         }
 
@@ -857,6 +875,7 @@
                 <td><div class="match-agents">${team1A.map(a => `<span class="match-agent-tag" data-role="${AGENT_ROLES[a.agent] || ''}">${a.agent || '?'}</span>`).join('')}</div></td>
                 <td><div class="match-agents">${team2A.map(a => `<span class="match-agent-tag" data-role="${AGENT_ROLES[a.agent] || ''}">${a.agent || '?'}</span>`).join('')}</div></td>
                 <td class="match-event">${m.event}</td>
+                <td>${m.vod ? `<a href="${m.vod}" target="_blank" class="watch-btn">📺 Watch</a>` : '<span style="color:var(--text-muted);font-size:11px;">N/A</span>'}</td>
             </tr>`;
         }).join('');
     }
@@ -896,7 +915,7 @@
             </div>
         `;
         document.getElementById('matchesBody').innerHTML =
-            `<tr><td colspan="6" style="text-align:center;padding:40px;color:var(--text-muted)">${msg}</td></tr>`;
+            `<tr><td colspan="7" style="text-align:center;padding:40px;color:var(--text-muted)">${msg}</td></tr>`;
     }
 
     // ========== INIT ==========

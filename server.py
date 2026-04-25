@@ -107,8 +107,16 @@ def scrape_match_detail(match_id, match_url):
         'id': match_id,
         'teams': [],
         'event': '',
+        'vod': '',
         'maps': []
     }
+    
+    # Extract VOD link (Youtube/Twitch)
+    streams = re.findall(r'<a\s+[^>]*href=["\'](https?://(?:www\.)?(?:youtube\.com|youtu\.be|twitch\.tv)[^"\']+)["\']', html_str)
+    for s in streams:
+        if 'clip' not in s:  # prioritize full video over clips
+            result['vod'] = s
+            break
     
     # Extract event name
     event_m = re.search(r'<a\s+href="/event/[^"]*"[^>]*class="[^"]*"[^>]*>\s*<div[^>]*>\s*<div[^>]*>\s*([^<]+)', html_str)
