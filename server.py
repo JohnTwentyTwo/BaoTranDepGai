@@ -117,6 +117,18 @@ def scrape_match_detail(match_id, match_url):
         if 'clip' not in s:  # prioritize full video over clips
             result['vod'] = s
             break
+            
+    # Auto-generate youtube search link if NO vod is found directly on vlr
+    if not result['vod'] and len(result['teams']) == 2:
+        query = urllib.parse.quote_plus(f"Valorant {result['teams'][0]} vs {result['teams'][1]} {result['event']} VOD")
+        try:
+            yt_url = f"https://www.youtube.com/results?search_query={query}"
+            yt_html = cached_fetch(yt_url, ttl=86400)
+            yt_m = re.search(r'"url":"/watch\?v=([a-zA-Z0-9_-]+)"', yt_html)
+            if yt_m:
+                result['vod'] = f"https://www.youtube.com/watch?v={yt_m.group(1)}"
+        except Exception:
+            pass
     
     # Extract event name
     event_m = re.search(r'<a\s+href="/event/[^"]*"[^>]*class="[^"]*"[^>]*>\s*<div[^>]*>\s*<div[^>]*>\s*([^<]+)', html_str)
@@ -135,9 +147,12 @@ def scrape_match_detail(match_id, match_url):
         map_data = {'map_name': 'Unknown', 'team1': '', 'team2': '', 'score': '', 'players': []}
         
         # Get map name from the header
-        map_m = re.search(r'<div class="map">\s*<div[^>]*>\s*(?:<span[^>]*>)?\s*(\w+)', gb)
+        map_m = re.search(r'<div class="map">.*?<span[^>]*>\s*([\w]+)\s*</span>', gb, re.DOTALL)
+        map_m2 = re.search(r'<div class="map">\s*<div[^>]*>\s*(?:<span[^>]*>)?\s*(\w+)', gb)
         if map_m:
             map_data['map_name'] = map_m.group(1).strip()
+        elif map_m2:
+            map_data['map_name'] = map_m2.group(1).strip()
         
         # Get team names & scores from the game header
         team_names = re.findall(r'<div class="team-name">\s*([^<]+)', gb)
@@ -179,14 +194,18 @@ def scrape_match_detail(match_id, match_url):
                     'agent': agent.title()  # Capitalize first letter
                 })
             
-            # If no agent found in title, try alt text
+            # If no agent found in title, grab fallback from image filename
             if not agents:
-                agents_alt = re.findall(r'alt="([^"]+)"', agent_html)
+                agents_alt = re.findall(r'/agents/([a-zA-Z0-9-]+)\.png', agent_html, re.IGNORECASE)
                 for agent in agents_alt:
+                    # Normalize string
+                    agent_name = agent.title()
+                    if agent_name.lower() == 'kayo':
+                        agent_name = 'KAY/O'
                     map_data['players'].append({
                         'player': player_name,
                         'team_tag': team_tag,
-                        'agent': agent.title()
+                        'agent': agent_name
                     })
         
         # Only add if we have player data

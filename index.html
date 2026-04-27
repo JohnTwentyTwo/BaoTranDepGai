@@ -146,6 +146,24 @@
         .header__meta span strong {
             color: var(--text-secondary);
         }
+        
+        /* ========== BRANDING ========== */
+        .brand-logo-container {
+            margin-bottom: 24px;
+        }
+        .brand-logo {
+            width: 110px;
+            height: 110px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid rgba(255, 70, 85, 0.4);
+            box-shadow: 0 8px 32px rgba(255, 70, 85, 0.25);
+            background: var(--bg-card);
+            transition: transform var(--transition);
+        }
+        .brand-logo:hover {
+            transform: scale(1.05);
+        }
 
         /* ========== STATS OVERVIEW ========== */
         .stats-bar {
@@ -648,6 +666,9 @@
     <div class="container">
         <!-- HEADER -->
         <header class="header">
+            <div class="brand-logo-container">
+                <img src="./logo.jpg" alt="Brand Logo" class="brand-logo" onerror="this.style.display='none'">
+            </div>
             <div class="header__badge"><span class="dot"></span> Live Meta</div>
             <h1>VALORANT PRO META</h1>
             <p>Agent pick analysis from recent professional matches</p>
