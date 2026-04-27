@@ -5,7 +5,7 @@ import server # import your existing server scraping logic
 def main():
     print("Scraping vlr.gg for static data...")
     # Matches logic currently mirrors what /api/full-data?pages=2&max=30 did
-    matches = server.scrape_match_results(num_pages=2)[:30]
+    matches = server.scrape_match_results(num_pages=3)[:100]
     results = []
     
     for m in matches:
