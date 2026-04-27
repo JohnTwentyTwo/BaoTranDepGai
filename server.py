@@ -111,48 +111,39 @@ def scrape_match_detail(match_id, match_url):
         'maps': []
     }
     
-    # Extract VOD link (Youtube/Twitch)
-    streams = re.findall(r'<a\s+[^>]*href=["\'](https?://(?:www\.)?(?:youtube\.com|youtu\.be|twitch\.tv)[^"\']+)["\']', html_str)
-    for s in streams:
-        if 'clip' not in s:  # prioritize full video over clips
-            result['vod'] = s
-            break
-            
-    # Auto-generate youtube search link if NO vod is found directly on vlr
-    if not result['vod'] and len(result['teams']) == 2:
-        query = urllib.parse.quote_plus(f"Valorant {result['teams'][0]} vs {result['teams'][1]} {result['event']} VOD")
-        try:
-            yt_url = f"https://www.youtube.com/results?search_query={query}"
-            yt_html = cached_fetch(yt_url, ttl=86400)
-            yt_m = re.search(r'"url":"/watch\?v=([a-zA-Z0-9_-]+)"', yt_html)
-            if yt_m:
-                result['vod'] = f"https://www.youtube.com/watch?v={yt_m.group(1)}"
-        except Exception:
-            pass
+    # Extract overall team names from page title
+    title_m = re.search(r'<title>([^\|]+)', html_str)
+    if title_m:
+        parts = title_m.group(1).split('vs.')
+        if len(parts) >= 2:
+            result['teams'] = [p.strip() for p in parts[:2]]
     
-    # Extract event name
-    event_m = re.search(r'<a\s+href="/event/[^"]*"[^>]*class="[^"]*"[^>]*>\s*<div[^>]*>\s*<div[^>]*>\s*([^<]+)', html_str)
-    if event_m:
-        result['event'] = event_m.group(1).strip()
-    
-    # Extract overall team names from match header
-    header_teams = re.findall(r'<div class="wf-title-med">\s*([^<]+)', html_str)
-    if len(header_teams) >= 2:
-        result['teams'] = [t.strip() for t in header_teams[:2]]
-    
+    # Force VOD to DuckDuckGo "I'm Feeling Lucky" redirect to the top YouTube result!
+    if len(result['teams']) == 2:
+        query = f"\\site:youtube.com Valorant {result['teams'][0]} vs {result['teams'][1]} {result['event']} VOD"
+        result['vod'] = f"https://duckduckgo.com/?q={urllib.parse.quote_plus(query)}"
+    else:
+        # Fallback to general vlr.gg stream/VOD links if teams aren't fetched
+        streams = re.findall(r'<a\s+[^>]*href=["\'](https?://(?:www\.)?(?:youtube\.com|youtu\.be|twitch\.tv)[^"\']+)["\']', html_str)
+        for s in streams:
+            if 'clip' not in s: 
+                result['vod'] = s
+                break
+                
     # Split by vm-stats-game blocks (each is a map)
     game_blocks = re.split(r'<div class="vm-stats-game\s', html_str)
     
     for gb in game_blocks[1:]:  # skip first (before any game block)
         map_data = {'map_name': 'Unknown', 'team1': '', 'team2': '', 'score': '', 'players': []}
         
-        # Get map name from the header
-        map_m = re.search(r'<div class="map">.*?<span[^>]*>\s*([\w]+)\s*</span>', gb, re.DOTALL)
-        map_m2 = re.search(r'<div class="map">\s*<div[^>]*>\s*(?:<span[^>]*>)?\s*(\w+)', gb)
-        if map_m:
-            map_data['map_name'] = map_m.group(1).strip()
-        elif map_m2:
-            map_data['map_name'] = map_m2.group(1).strip()
+        # Get map name by extracting clean text from the ENTIRE game block to be 100% safe
+        clean_gb = re.sub(r'<[^>]+>', ' ', gb)
+        words = re.findall(r'[A-Za-z]+', clean_gb)
+        known_maps = {'Ascent', 'Bind', 'Haven', 'Split', 'Icebox', 'Breeze', 'Fracture', 'Lotus', 'Sunset', 'Pearl', 'Abyss'}
+        for w in words:
+            if w.lower() in {m.lower() for m in known_maps}:
+                map_data['map_name'] = w.title()
+                break
         
         # Get team names & scores from the game header
         team_names = re.findall(r'<div class="team-name">\s*([^<]+)', gb)
@@ -184,32 +175,33 @@ def scrape_match_detail(match_id, match_url):
             team_m = re.search(r'ge-text-light[^>]*>\s*([^<]+)', player_html)
             team_tag = team_m.group(1).strip() if team_m else ''
             
-            # Agent(s)
-            agents = re.findall(r'title="([^"]+)"', agent_html)
+            valid_agents = {'Jett', 'Raze', 'Reyna', 'Phoenix', 'Yoru', 'Neon', 'Iso', 'Brimstone', 'Omen', 'Viper', 'Astra', 'Harbor', 'Clove', 'Sova', 'Breach', 'Skye', 'KAY/O', 'Fade', 'Gekko', 'Sage', 'Cypher', 'Killjoy', 'Chamber', 'Deadlock', 'Vyse'}
             
-            for agent in agents:
+            # Prioritize extracting agent name directly from the image filename ensuring it's an actual agent
+            agents_img = re.findall(r'/agents/([a-zA-Z0-9-]+)\.png', agent_html, re.IGNORECASE)
+            agents_title = re.findall(r'title="([^"]+)"', agent_html)
+            
+            final_agents = []
+            if agents_img:
+                for a in agents_img:
+                    name = a.title()
+                    if name.lower() == 'kayo': name = 'KAY/O'
+                    if name in valid_agents: final_agents.append(name)
+            elif agents_title:
+                for a in agents_title:
+                    name = a.title()
+                    if name.lower() == 'kayo': name = 'KAY/O'
+                    if name in valid_agents: final_agents.append(name)
+            
+            for agent_name in final_agents:
                 map_data['players'].append({
                     'player': player_name,
                     'team_tag': team_tag,
-                    'agent': agent.title()  # Capitalize first letter
+                    'agent': agent_name
                 })
-            
-            # If no agent found in title, grab fallback from image filename
-            if not agents:
-                agents_alt = re.findall(r'/agents/([a-zA-Z0-9-]+)\.png', agent_html, re.IGNORECASE)
-                for agent in agents_alt:
-                    # Normalize string
-                    agent_name = agent.title()
-                    if agent_name.lower() == 'kayo':
-                        agent_name = 'KAY/O'
-                    map_data['players'].append({
-                        'player': player_name,
-                        'team_tag': team_tag,
-                        'agent': agent_name
-                    })
         
-        # Only add if we have player data
-        if map_data['players']:
+        # Only add to maps list if it's an actual map (not the 'All Maps' series summary) and we have players
+        if map_data['players'] and map_data['map_name'] != 'Unknown':
             result['maps'].append(map_data)
     
     return result
