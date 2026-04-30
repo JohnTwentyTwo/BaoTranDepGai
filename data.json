@@ -13006,6 +13006,181 @@
       ]
     },
     {
+      "id": "665875",
+      "teams": [
+        "Legiowon",
+        "AB3 GC"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Legiowon+vs+AB3+GC++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "Legiowon",
+          "team2": "AB3 GC",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "Fantasmitawr",
+              "team_tag": "OWO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Less",
+              "team_tag": "OWO",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "aileen",
+              "team_tag": "OWO",
+              "agent": "Omen"
+            },
+            {
+              "player": "Jinx",
+              "team_tag": "OWO",
+              "agent": "Neon"
+            },
+            {
+              "player": "nathly",
+              "team_tag": "OWO",
+              "agent": "Sova"
+            },
+            {
+              "player": "Rayz",
+              "team_tag": "AB3",
+              "agent": "Sova"
+            },
+            {
+              "player": "xirxia",
+              "team_tag": "AB3",
+              "agent": "Neon"
+            },
+            {
+              "player": "Roses",
+              "team_tag": "AB3",
+              "agent": "Clove"
+            },
+            {
+              "player": "Xalleby",
+              "team_tag": "AB3",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "LiNLiN",
+              "team_tag": "AB3",
+              "agent": "Killjoy"
+            }
+          ]
+        },
+        {
+          "map_name": "Bind",
+          "team1": "Legiowon",
+          "team2": "AB3 GC",
+          "score": "3-13",
+          "players": [
+            {
+              "player": "nathly",
+              "team_tag": "OWO",
+              "agent": "Fade"
+            },
+            {
+              "player": "Fantasmitawr",
+              "team_tag": "OWO",
+              "agent": "Viper"
+            },
+            {
+              "player": "aileen",
+              "team_tag": "OWO",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "Less",
+              "team_tag": "OWO",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "LiNLiN",
+              "team_tag": "AB3",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Xalleby",
+              "team_tag": "AB3",
+              "agent": "Raze"
+            },
+            {
+              "player": "xirxia",
+              "team_tag": "AB3",
+              "agent": "Neon"
+            },
+            {
+              "player": "Rayz",
+              "team_tag": "AB3",
+              "agent": "Skye"
+            },
+            {
+              "player": "Roses",
+              "team_tag": "AB3",
+              "agent": "Clove"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "Legiowon",
+          "team2": "AB3 GC",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "Jinx",
+              "team_tag": "OWO",
+              "agent": "Neon"
+            },
+            {
+              "player": "nathly",
+              "team_tag": "OWO",
+              "agent": "Astra"
+            },
+            {
+              "player": "aileen",
+              "team_tag": "OWO",
+              "agent": "Sova"
+            },
+            {
+              "player": "Fantasmitawr",
+              "team_tag": "OWO",
+              "agent": "Viper"
+            },
+            {
+              "player": "Less",
+              "team_tag": "OWO",
+              "agent": "Jett"
+            },
+            {
+              "player": "LiNLiN",
+              "team_tag": "AB3",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Roses",
+              "team_tag": "AB3",
+              "agent": "Reyna"
+            },
+            {
+              "player": "Rayz",
+              "team_tag": "AB3",
+              "agent": "Sova"
+            },
+            {
+              "player": "Xalleby",
+              "team_tag": "AB3",
+              "agent": "Jett"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "644733",
       "teams": [
         "BBL Esports",
@@ -14345,181 +14520,6 @@
               "player": "s0pp",
               "team_tag": "FUT",
               "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "644730",
-      "teams": [
-        "GIANTX",
-        "FNATIC"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+GIANTX+vs+FNATIC++VOD",
-      "maps": [
-        {
-          "map_name": "Haven",
-          "team1": "GIANTX",
-          "team2": "FNATIC",
-          "score": "13-3",
-          "players": [
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Omen"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Sova"
-            },
-            {
-              "player": "crashies",
-              "team_tag": "FNC",
-              "agent": "Sova"
-            },
-            {
-              "player": "Desmo",
-              "team_tag": "FNC",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Alfajer",
-              "team_tag": "FNC",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Boaster",
-              "team_tag": "FNC",
-              "agent": "Omen"
-            },
-            {
-              "player": "kaajak",
-              "team_tag": "FNC",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Bind",
-          "team1": "GIANTX",
-          "team2": "FNATIC",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Skye"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Viper"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Boaster",
-              "team_tag": "FNC",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "kaajak",
-              "team_tag": "FNC",
-              "agent": "Neon"
-            },
-            {
-              "player": "crashies",
-              "team_tag": "FNC",
-              "agent": "Skye"
-            },
-            {
-              "player": "Desmo",
-              "team_tag": "FNC",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Breeze",
-          "team1": "GIANTX",
-          "team2": "FNATIC",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Sova"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Skye"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Omen"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Viper"
-            },
-            {
-              "player": "Alfajer",
-              "team_tag": "FNC",
-              "agent": "Viper"
-            },
-            {
-              "player": "Boaster",
-              "team_tag": "FNC",
-              "agent": "Harbor"
-            },
-            {
-              "player": "kaajak",
-              "team_tag": "FNC",
-              "agent": "Neon"
-            },
-            {
-              "player": "crashies",
-              "team_tag": "FNC",
-              "agent": "Sova"
-            },
-            {
-              "player": "Desmo",
-              "team_tag": "FNC",
-              "agent": "KAY/O"
             }
           ]
         }
