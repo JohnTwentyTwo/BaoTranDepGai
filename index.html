@@ -895,12 +895,6 @@
         ]
     };
 
-    // ========== CURRENT COMPETITIVE MAP POOL ==========
-    // Updated: May 2026 — adjust this set when Riot rotates the map pool
-    const COMP_MAP_POOL = new Set([
-        'Ascent', 'Breeze', 'Fracture', 'Haven', 'Lotus', 'Pearl', 'Split'
-    ]);
-
     Object.keys(AGENT_UUIDS).forEach(name => {
         AGENT_ICONS[name] = `${AGENT_ICON_BASE}/${AGENT_UUIDS[name]}/displayicon.png`;
     });
@@ -909,6 +903,9 @@
     let allMatchDetails = [];
     let allMapData = [];
     let currentMapFilter = 'all';
+    // Auto-detected comp map pool — loaded from data.json (set by build.py)
+    // Falls back to all maps in the data if not provided
+    let compMapPool = null; // null = use all maps
 
     // ========== FETCH DATA ==========
     async function fetchJSON(url) {
@@ -950,6 +947,12 @@
             updateStatus(`Processing ${result.matches.length} matches...`);
             allMatchDetails = result.matches;
 
+            // Read auto-detected map pool from data.json (set by build.py)
+            if (result.map_pool && result.map_pool.length > 0) {
+                compMapPool = new Set(result.map_pool);
+                console.log('Comp map pool (from data):', [...compMapPool]);
+            }
+
             // Process into map-level data
             processMapData();
             buildFilterButtons();
@@ -979,7 +982,7 @@
             match.maps.forEach(map => {
                 const mapName = map.map_name || 'Unknown';
                 // Only include maps in the current competitive rotation
-                if (!COMP_MAP_POOL.has(mapName)) return;
+                if (compMapPool && !compMapPool.has(mapName)) return;
                 const agents = (map.players || []).map(p => ({
                     team: p.team_tag || '',
                     player: p.player,
@@ -1177,9 +1180,9 @@
 
     // ========== FILTER ==========
     function buildFilterButtons() {
-        // Only show maps that are in the current comp rotation AND have data
+        // Show maps from data — filtered by comp pool if available
         const maps = [...new Set(allMapData.map(m => m.map))]
-            .filter(m => COMP_MAP_POOL.has(m))
+            .filter(m => !compMapPool || compMapPool.has(m))
             .sort();
         const bar = document.getElementById('filterBar');
         bar.innerHTML = `<button class="filter-btn active" data-map="all">All Maps</button>` +
