@@ -51,9 +51,9 @@ def fetch_url(url):
         return resp.read().decode('utf-8', errors='ignore')
 
 # ========== SCRAPER: MATCH LIST ==========
-def scrape_match_results(num_pages=1):
+def scrape_match_results(num_pages=1, start_page=1):
     all_matches = []
-    for page in range(1, num_pages + 1):
+    for page in range(start_page, start_page + num_pages):
         url = f'{VLR_BASE}/matches/results/?page={page}'
         html_str = cached_fetch(url, ttl=300)
         
