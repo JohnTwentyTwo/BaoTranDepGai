@@ -894,6 +894,13 @@
             {name:'Bulldog',type:'Rifle',usage:2.3},{name:'Guardian',type:'Rifle',usage:1.9}
         ]
     };
+
+    // ========== CURRENT COMPETITIVE MAP POOL ==========
+    // Updated: May 2026 — adjust this set when Riot rotates the map pool
+    const COMP_MAP_POOL = new Set([
+        'Ascent', 'Breeze', 'Fracture', 'Haven', 'Lotus', 'Pearl', 'Split'
+    ]);
+
     Object.keys(AGENT_UUIDS).forEach(name => {
         AGENT_ICONS[name] = `${AGENT_ICON_BASE}/${AGENT_UUIDS[name]}/displayicon.png`;
     });
@@ -970,6 +977,9 @@
         allMatchDetails.forEach(match => {
             if (!match.maps) return;
             match.maps.forEach(map => {
+                const mapName = map.map_name || 'Unknown';
+                // Only include maps in the current competitive rotation
+                if (!COMP_MAP_POOL.has(mapName)) return;
                 const agents = (map.players || []).map(p => ({
                     team: p.team_tag || '',
                     player: p.player,
@@ -977,7 +987,7 @@
                 }));
                 allMapData.push({
                     matchId: match.id,
-                    map: map.map_name || 'Unknown',
+                    map: mapName,
                     team1: map.team1 || match.teams?.[0] || '?',
                     team2: map.team2 || match.teams?.[1] || '?',
                     score: map.score || '?',
@@ -1167,7 +1177,10 @@
 
     // ========== FILTER ==========
     function buildFilterButtons() {
-        const maps = [...new Set(allMapData.map(m => m.map))].sort();
+        // Only show maps that are in the current comp rotation AND have data
+        const maps = [...new Set(allMapData.map(m => m.map))]
+            .filter(m => COMP_MAP_POOL.has(m))
+            .sort();
         const bar = document.getElementById('filterBar');
         bar.innerHTML = `<button class="filter-btn active" data-map="all">All Maps</button>` +
             maps.map(m => `<button class="filter-btn" data-map="${m}">${m}</button>`).join('');
