@@ -12,6 +12,133 @@
   ],
   "matches": [
     {
+      "id": "666339",
+      "teams": [
+        "EOTO",
+        "FENNEL GC"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+EOTO+vs+FENNEL+GC++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "EOTO",
+          "team2": "FENNEL GC",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "MyoH4nN",
+              "team_tag": "EOTO",
+              "agent": "Neon"
+            },
+            {
+              "player": "onni",
+              "team_tag": "EOTO",
+              "agent": "Omen"
+            },
+            {
+              "player": "yuzu",
+              "team_tag": "EOTO",
+              "agent": "Viper"
+            },
+            {
+              "player": "koyori",
+              "team_tag": "EOTO",
+              "agent": "Skye"
+            },
+            {
+              "player": "GGonyaK",
+              "team_tag": "EOTO",
+              "agent": "Raze"
+            },
+            {
+              "player": "Moco",
+              "team_tag": "FL.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "YuRinChi",
+              "team_tag": "FL.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "UR",
+              "team_tag": "FL.GC",
+              "agent": "Skye"
+            },
+            {
+              "player": "SereNa",
+              "team_tag": "FL.GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "suzu",
+              "team_tag": "FL.GC",
+              "agent": "Raze"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "EOTO",
+          "team2": "FENNEL GC",
+          "score": "14-16",
+          "players": [
+            {
+              "player": "onni",
+              "team_tag": "EOTO",
+              "agent": "Omen"
+            },
+            {
+              "player": "MyoH4nN",
+              "team_tag": "EOTO",
+              "agent": "Neon"
+            },
+            {
+              "player": "GGonyaK",
+              "team_tag": "EOTO",
+              "agent": "Vyse"
+            },
+            {
+              "player": "yuzu",
+              "team_tag": "EOTO",
+              "agent": "Viper"
+            },
+            {
+              "player": "koyori",
+              "team_tag": "EOTO",
+              "agent": "Fade"
+            },
+            {
+              "player": "SereNa",
+              "team_tag": "FL.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "YuRinChi",
+              "team_tag": "FL.GC",
+              "agent": "Vyse"
+            },
+            {
+              "player": "UR",
+              "team_tag": "FL.GC",
+              "agent": "Fade"
+            },
+            {
+              "player": "suzu",
+              "team_tag": "FL.GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Moco",
+              "team_tag": "FL.GC",
+              "agent": "Omen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "661116",
       "teams": [
         "YFP",
@@ -14975,133 +15102,6 @@
               "player": "bababui",
               "team_tag": "XGOD",
               "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "659567",
-      "teams": [
-        "BOOM Esports",
-        "NEVERLAND713"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+BOOM+Esports+vs+NEVERLAND713++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "BOOM Esports",
-          "team2": "NEVERLAND713",
-          "score": "16-14",
-          "players": [
-            {
-              "player": "NcSlasher",
-              "team_tag": "BME",
-              "agent": "Skye"
-            },
-            {
-              "player": "Shiro",
-              "team_tag": "BME",
-              "agent": "Raze"
-            },
-            {
-              "player": "d3ffo",
-              "team_tag": "BME",
-              "agent": "Viper"
-            },
-            {
-              "player": "natz",
-              "team_tag": "BME",
-              "agent": "Omen"
-            },
-            {
-              "player": "Nakya",
-              "team_tag": "BME",
-              "agent": "Neon"
-            },
-            {
-              "player": "Magician",
-              "team_tag": "NVL",
-              "agent": "Jett"
-            },
-            {
-              "player": "ahongboy",
-              "team_tag": "NVL",
-              "agent": "Omen"
-            },
-            {
-              "player": "HZBY",
-              "team_tag": "NVL",
-              "agent": "Neon"
-            },
-            {
-              "player": "fausTao",
-              "team_tag": "NVL",
-              "agent": "Viper"
-            },
-            {
-              "player": "capeesha",
-              "team_tag": "NVL",
-              "agent": "Skye"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "BOOM Esports",
-          "team2": "NEVERLAND713",
-          "score": "13-10",
-          "players": [
-            {
-              "player": "d3ffo",
-              "team_tag": "BME",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Shiro",
-              "team_tag": "BME",
-              "agent": "Viper"
-            },
-            {
-              "player": "Nakya",
-              "team_tag": "BME",
-              "agent": "Neon"
-            },
-            {
-              "player": "NcSlasher",
-              "team_tag": "BME",
-              "agent": "Fade"
-            },
-            {
-              "player": "natz",
-              "team_tag": "BME",
-              "agent": "Omen"
-            },
-            {
-              "player": "fausTao",
-              "team_tag": "NVL",
-              "agent": "Vyse"
-            },
-            {
-              "player": "capeesha",
-              "team_tag": "NVL",
-              "agent": "Fade"
-            },
-            {
-              "player": "Magician",
-              "team_tag": "NVL",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "HZBY",
-              "team_tag": "NVL",
-              "agent": "Neon"
-            },
-            {
-              "player": "ahongboy",
-              "team_tag": "NVL",
-              "agent": "Omen"
             }
           ]
         }
