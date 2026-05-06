@@ -12,6 +12,171 @@
   ],
   "matches": [
     {
+      "id": "666340",
+      "teams": [
+        "FENNEL GC",
+        "EOTO"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FENNEL+GC+vs+EOTO++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "FENNEL GC",
+          "team2": "EOTO",
+          "score": "13-7",
+          "players": [
+            {
+              "player": "suzu",
+              "team_tag": "FL.GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Moco",
+              "team_tag": "FL.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "SereNa",
+              "team_tag": "FL.GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "UR",
+              "team_tag": "FL.GC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "YuRinChi",
+              "team_tag": "FL.GC",
+              "agent": "Fade"
+            },
+            {
+              "player": "koyori",
+              "team_tag": "EOTO",
+              "agent": "Sova"
+            },
+            {
+              "player": "yuzu",
+              "team_tag": "EOTO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "MyoH4nN",
+              "team_tag": "EOTO",
+              "agent": "Neon"
+            },
+            {
+              "player": "onni",
+              "team_tag": "EOTO",
+              "agent": "Omen"
+            },
+            {
+              "player": "GGonyaK",
+              "team_tag": "EOTO",
+              "agent": "Phoenix"
+            }
+          ]
+        },
+        {
+          "map_name": "Bind",
+          "team1": "FENNEL GC",
+          "team2": "EOTO",
+          "score": "13-4",
+          "players": [
+            {
+              "player": "UR",
+              "team_tag": "FL.GC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Moco",
+              "team_tag": "FL.GC",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "YuRinChi",
+              "team_tag": "FL.GC",
+              "agent": "Fade"
+            },
+            {
+              "player": "SereNa",
+              "team_tag": "FL.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "suzu",
+              "team_tag": "FL.GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "onni",
+              "team_tag": "EOTO",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "yuzu",
+              "team_tag": "EOTO",
+              "agent": "Viper"
+            },
+            {
+              "player": "koyori",
+              "team_tag": "EOTO",
+              "agent": "Skye"
+            },
+            {
+              "player": "MyoH4nN",
+              "team_tag": "EOTO",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "FENNEL GC",
+          "team2": "EOTO",
+          "score": "13-3",
+          "players": [
+            {
+              "player": "UR",
+              "team_tag": "FL.GC",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "SereNa",
+              "team_tag": "FL.GC",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Moco",
+              "team_tag": "FL.GC",
+              "agent": "Astra"
+            },
+            {
+              "player": "GGonyaK",
+              "team_tag": "EOTO",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "onni",
+              "team_tag": "EOTO",
+              "agent": "Astra"
+            },
+            {
+              "player": "koyori",
+              "team_tag": "EOTO",
+              "agent": "Sova"
+            },
+            {
+              "player": "MyoH4nN",
+              "team_tag": "EOTO",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "668472",
       "teams": [
         "FURIA Academy",
@@ -15021,133 +15186,6 @@
               "player": "gioØ2x",
               "team_tag": "BBB",
               "agent": "Omen"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "662083",
-      "teams": [
-        "SwimTrek Blue",
-        "Puppy Thieves"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+SwimTrek+Blue+vs+Puppy+Thieves++VOD",
-      "maps": [
-        {
-          "map_name": "Lotus",
-          "team1": "SwimTrek Blue",
-          "team2": "Puppy Thieves",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "CHAROD",
-              "team_tag": "SWIM",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Bob",
-              "team_tag": "SWIM",
-              "agent": "Raze"
-            },
-            {
-              "player": "glowstick",
-              "team_tag": "SWIM",
-              "agent": "Fade"
-            },
-            {
-              "player": "venture",
-              "team_tag": "SWIM",
-              "agent": "Omen"
-            },
-            {
-              "player": "k0rupt",
-              "team_tag": "SWIM",
-              "agent": "Viper"
-            },
-            {
-              "player": "zoriental",
-              "team_tag": "WOOF",
-              "agent": "Raze"
-            },
-            {
-              "player": "SaintClaws",
-              "team_tag": "WOOF",
-              "agent": "Vyse"
-            },
-            {
-              "player": "terror",
-              "team_tag": "WOOF",
-              "agent": "Neon"
-            },
-            {
-              "player": "Nora",
-              "team_tag": "WOOF",
-              "agent": "Omen"
-            },
-            {
-              "player": "miyara",
-              "team_tag": "WOOF",
-              "agent": "Fade"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "SwimTrek Blue",
-          "team2": "Puppy Thieves",
-          "score": "6-13",
-          "players": [
-            {
-              "player": "k0rupt",
-              "team_tag": "SWIM",
-              "agent": "Viper"
-            },
-            {
-              "player": "Bob",
-              "team_tag": "SWIM",
-              "agent": "Chamber"
-            },
-            {
-              "player": "venture",
-              "team_tag": "SWIM",
-              "agent": "Omen"
-            },
-            {
-              "player": "glowstick",
-              "team_tag": "SWIM",
-              "agent": "Sova"
-            },
-            {
-              "player": "CHAROD",
-              "team_tag": "SWIM",
-              "agent": "Jett"
-            },
-            {
-              "player": "terror",
-              "team_tag": "WOOF",
-              "agent": "Neon"
-            },
-            {
-              "player": "miyara",
-              "team_tag": "WOOF",
-              "agent": "Sova"
-            },
-            {
-              "player": "SaintClaws",
-              "team_tag": "WOOF",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Nora",
-              "team_tag": "WOOF",
-              "agent": "Omen"
-            },
-            {
-              "player": "zoriental",
-              "team_tag": "WOOF",
-              "agent": "Phoenix"
             }
           ]
         }
