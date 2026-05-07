@@ -12,6 +12,663 @@
   ],
   "matches": [
     {
+      "id": "657978",
+      "teams": [
+        "MIR",
+        "Enterprise Esports"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+MIR+vs+Enterprise+Esports++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "MIR",
+          "team2": "Enterprise Esports",
+          "score": "2-13",
+          "players": [
+            {
+              "player": "Raz",
+              "team_tag": "MIR",
+              "agent": "Jett"
+            },
+            {
+              "player": "Redgar",
+              "team_tag": "MIR",
+              "agent": "Skye"
+            },
+            {
+              "player": "reblyik",
+              "team_tag": "MIR",
+              "agent": "Omen"
+            },
+            {
+              "player": "Bishepss",
+              "team_tag": "MIR",
+              "agent": "Astra"
+            },
+            {
+              "player": "MAGNUM",
+              "team_tag": "EP",
+              "agent": "Viper"
+            },
+            {
+              "player": "Lime",
+              "team_tag": "EP",
+              "agent": "Yoru"
+            },
+            {
+              "player": "Proxh",
+              "team_tag": "EP",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Fracture",
+          "team1": "MIR",
+          "team2": "Enterprise Esports",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "kospa1n",
+              "team_tag": "MIR",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Raz",
+              "team_tag": "MIR",
+              "agent": "Raze"
+            },
+            {
+              "player": "reblyik",
+              "team_tag": "MIR",
+              "agent": "Fade"
+            },
+            {
+              "player": "Bishepss",
+              "team_tag": "MIR",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "Redgar",
+              "team_tag": "MIR",
+              "agent": "Breach"
+            },
+            {
+              "player": "kozzy",
+              "team_tag": "EP",
+              "agent": "Jett"
+            },
+            {
+              "player": "Proxh",
+              "team_tag": "EP",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "MAGNUM",
+              "team_tag": "EP",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "iluri",
+              "team_tag": "EP",
+              "agent": "Skye"
+            },
+            {
+              "player": "Lime",
+              "team_tag": "EP",
+              "agent": "Raze"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "660381",
+      "teams": [
+        "Eternal Fire",
+        "Team Heretics"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Eternal+Fire+vs+Team+Heretics++VOD",
+      "maps": [
+        {
+          "map_name": "Fracture",
+          "team1": "Eternal Fire",
+          "team2": "Team Heretics",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Astra"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Breach"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Raze"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Fade"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "Eternal Fire",
+          "team2": "Team Heretics",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Astra"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Neon"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Fade"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Astra"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Fade"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Cypher"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "Eternal Fire",
+          "team2": "Team Heretics",
+          "score": "13-5",
+          "players": [
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Omen"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Fade"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Neon"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Raze"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Raze"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Fade"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Omen"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Vyse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "666226",
+      "teams": [
+        "Twisted Minds Orchid",
+        "Barça eSports GC"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Twisted+Minds+Orchid+vs+Bar%C3%A7a+eSports+GC++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "Twisted Minds Orchid",
+          "team2": "Barça eSports GC",
+          "score": "13-11",
+          "players": [
+            {
+              "player": "Leen",
+              "team_tag": "TWO",
+              "agent": "Chamber"
+            },
+            {
+              "player": "ness",
+              "team_tag": "TWO",
+              "agent": "Fade"
+            },
+            {
+              "player": "misu",
+              "team_tag": "TWO",
+              "agent": "Omen"
+            },
+            {
+              "player": "sarah",
+              "team_tag": "TWO",
+              "agent": "Viper"
+            },
+            {
+              "player": "grahams",
+              "team_tag": "TWO",
+              "agent": "Raze"
+            },
+            {
+              "player": "devilasxa",
+              "team_tag": "BAR.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "Lyda",
+              "team_tag": "BAR.GC",
+              "agent": "Fade"
+            },
+            {
+              "player": "Miyori",
+              "team_tag": "BAR.GC",
+              "agent": "Raze"
+            },
+            {
+              "player": "Toki",
+              "team_tag": "BAR.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Annie",
+              "team_tag": "BAR.GC",
+              "agent": "Vyse"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "Twisted Minds Orchid",
+          "team2": "Barça eSports GC",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "Leen",
+              "team_tag": "TWO",
+              "agent": "Raze"
+            },
+            {
+              "player": "ness",
+              "team_tag": "TWO",
+              "agent": "Vyse"
+            },
+            {
+              "player": "grahams",
+              "team_tag": "TWO",
+              "agent": "Skye"
+            },
+            {
+              "player": "misu",
+              "team_tag": "TWO",
+              "agent": "Omen"
+            },
+            {
+              "player": "sarah",
+              "team_tag": "TWO",
+              "agent": "Viper"
+            },
+            {
+              "player": "Annie",
+              "team_tag": "BAR.GC",
+              "agent": "Sage"
+            },
+            {
+              "player": "Lyda",
+              "team_tag": "BAR.GC",
+              "agent": "Skye"
+            },
+            {
+              "player": "Toki",
+              "team_tag": "BAR.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Miyori",
+              "team_tag": "BAR.GC",
+              "agent": "Raze"
+            },
+            {
+              "player": "devilasxa",
+              "team_tag": "BAR.GC",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "Twisted Minds Orchid",
+          "team2": "Barça eSports GC",
+          "score": "15-13",
+          "players": [
+            {
+              "player": "ness",
+              "team_tag": "TWO",
+              "agent": "Sova"
+            },
+            {
+              "player": "Leen",
+              "team_tag": "TWO",
+              "agent": "Jett"
+            },
+            {
+              "player": "grahams",
+              "team_tag": "TWO",
+              "agent": "Omen"
+            },
+            {
+              "player": "misu",
+              "team_tag": "TWO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "sarah",
+              "team_tag": "TWO",
+              "agent": "Breach"
+            },
+            {
+              "player": "Miyori",
+              "team_tag": "BAR.GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "devilasxa",
+              "team_tag": "BAR.GC",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "Annie",
+              "team_tag": "BAR.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "Toki",
+              "team_tag": "BAR.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Lyda",
+              "team_tag": "BAR.GC",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "666227",
+      "teams": [
+        "Gentle Mates GC",
+        "SK Nebula"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Gentle+Mates+GC+vs+SK+Nebula++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "Gentle Mates GC",
+          "team2": "SK Nebula",
+          "score": "12-14",
+          "players": [
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "Joliinaa",
+              "team_tag": "SKN",
+              "agent": "Jett"
+            },
+            {
+              "player": "LizA",
+              "team_tag": "SKN",
+              "agent": "Sova"
+            },
+            {
+              "player": "Thuy",
+              "team_tag": "SKN",
+              "agent": "Cypher"
+            },
+            {
+              "player": "fluxxy",
+              "team_tag": "SKN",
+              "agent": "Omen"
+            },
+            {
+              "player": "rezq",
+              "team_tag": "SKN",
+              "agent": "Phoenix"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "Gentle Mates GC",
+          "team2": "SK Nebula",
+          "score": "13-4",
+          "players": [
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "Raze"
+            },
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Vyse"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Fade"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "rezq",
+              "team_tag": "SKN",
+              "agent": "Raze"
+            },
+            {
+              "player": "Joliinaa",
+              "team_tag": "SKN",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Thuy",
+              "team_tag": "SKN",
+              "agent": "Viper"
+            },
+            {
+              "player": "LizA",
+              "team_tag": "SKN",
+              "agent": "Fade"
+            },
+            {
+              "player": "fluxxy",
+              "team_tag": "SKN",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "Gentle Mates GC",
+          "team2": "SK Nebula",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Astra"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "fluxxy",
+              "team_tag": "SKN",
+              "agent": "Astra"
+            },
+            {
+              "player": "Thuy",
+              "team_tag": "SKN",
+              "agent": "Viper"
+            },
+            {
+              "player": "Joliinaa",
+              "team_tag": "SKN",
+              "agent": "Jett"
+            },
+            {
+              "player": "rezq",
+              "team_tag": "SKN",
+              "agent": "Skye"
+            },
+            {
+              "player": "LizA",
+              "team_tag": "SKN",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "666489",
       "teams": [
         "Kiwoom DRX",
@@ -14302,547 +14959,6 @@
               "player": "Life",
               "team_tag": "DRG",
               "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "659476",
-      "teams": [
-        "All Gamers",
-        "Trace Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+All+Gamers+vs+Trace+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "All Gamers",
-          "team2": "Trace Esports",
-          "score": "13-6",
-          "players": [
-            {
-              "player": "K1ra",
-              "team_tag": "AG",
-              "agent": "Raze"
-            },
-            {
-              "player": "f4ngeer",
-              "team_tag": "AG",
-              "agent": "Jett"
-            },
-            {
-              "player": "Shr1mp",
-              "team_tag": "AG",
-              "agent": "Skye"
-            },
-            {
-              "player": "Youze",
-              "team_tag": "AG",
-              "agent": "Viper"
-            },
-            {
-              "player": "iamgrq",
-              "team_tag": "AG",
-              "agent": "Omen"
-            },
-            {
-              "player": "Kai",
-              "team_tag": "TE",
-              "agent": "Neon"
-            },
-            {
-              "player": "Viva",
-              "team_tag": "TE",
-              "agent": "Skye"
-            },
-            {
-              "player": "deLb",
-              "team_tag": "TE",
-              "agent": "Omen"
-            },
-            {
-              "player": "Abo",
-              "team_tag": "TE",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "All Gamers",
-          "team2": "Trace Esports",
-          "score": "13-6",
-          "players": [
-            {
-              "player": "Shr1mp",
-              "team_tag": "AG",
-              "agent": "Fade"
-            },
-            {
-              "player": "Youze",
-              "team_tag": "AG",
-              "agent": "Neon"
-            },
-            {
-              "player": "K1ra",
-              "team_tag": "AG",
-              "agent": "Cypher"
-            },
-            {
-              "player": "iamgrq",
-              "team_tag": "AG",
-              "agent": "Omen"
-            },
-            {
-              "player": "Xlele",
-              "team_tag": "TE",
-              "agent": "Neon"
-            },
-            {
-              "player": "deLb",
-              "team_tag": "TE",
-              "agent": "Omen"
-            },
-            {
-              "player": "Kai",
-              "team_tag": "TE",
-              "agent": "Raze"
-            },
-            {
-              "player": "Viva",
-              "team_tag": "TE",
-              "agent": "Fade"
-            },
-            {
-              "player": "Abo",
-              "team_tag": "TE",
-              "agent": "Vyse"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "644679",
-      "teams": [
-        "T1",
-        "FULL SENSE"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+T1+vs+FULL+SENSE++VOD",
-      "maps": [
-        {
-          "map_name": "Pearl",
-          "team1": "T1",
-          "team2": "FULL SENSE",
-          "score": "13-5",
-          "players": [
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "Sova"
-            },
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Astra"
-            },
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Neon"
-            },
-            {
-              "player": "primmie",
-              "team_tag": "FS",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Killua",
-              "team_tag": "FS",
-              "agent": "Fade"
-            },
-            {
-              "player": "JitBoyS",
-              "team_tag": "FS",
-              "agent": "Neon"
-            },
-            {
-              "player": "Leviathan",
-              "team_tag": "FS",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Crws",
-              "team_tag": "FS",
-              "agent": "Astra"
-            }
-          ]
-        },
-        {
-          "map_name": "Bind",
-          "team1": "T1",
-          "team2": "FULL SENSE",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Viper"
-            },
-            {
-              "player": "iZu",
-              "team_tag": "T1",
-              "agent": "Chamber"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Neon"
-            },
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "Skye"
-            },
-            {
-              "player": "primmie",
-              "team_tag": "FS",
-              "agent": "Raze"
-            },
-            {
-              "player": "Killua",
-              "team_tag": "FS",
-              "agent": "Skye"
-            },
-            {
-              "player": "Crws",
-              "team_tag": "FS",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Leviathan",
-              "team_tag": "FS",
-              "agent": "Viper"
-            },
-            {
-              "player": "JitBoyS",
-              "team_tag": "FS",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Breeze",
-          "team1": "T1",
-          "team2": "FULL SENSE",
-          "score": "13-9",
-          "players": [
-            {
-              "player": "iZu",
-              "team_tag": "T1",
-              "agent": "Sova"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Neon"
-            },
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Viper"
-            },
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Harbor"
-            },
-            {
-              "player": "JitBoyS",
-              "team_tag": "FS",
-              "agent": "Neon"
-            },
-            {
-              "player": "primmie",
-              "team_tag": "FS",
-              "agent": "Jett"
-            },
-            {
-              "player": "Crws",
-              "team_tag": "FS",
-              "agent": "Harbor"
-            },
-            {
-              "player": "Killua",
-              "team_tag": "FS",
-              "agent": "Sova"
-            },
-            {
-              "player": "Leviathan",
-              "team_tag": "FS",
-              "agent": "Viper"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "645493",
-      "teams": [
-        "LEVIATÁN",
-        "MIBR"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+LEVIAT%C3%81N+vs+MIBR++VOD",
-      "maps": [
-        {
-          "map_name": "Breeze",
-          "team1": "LEVIATÁN",
-          "team2": "MIBR",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Jett"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Harbor"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Sova"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Omen"
-            },
-            {
-              "player": "Verno",
-              "team_tag": "MIBR",
-              "agent": "Skye"
-            },
-            {
-              "player": "zekken",
-              "team_tag": "MIBR",
-              "agent": "Neon"
-            },
-            {
-              "player": "aspas",
-              "team_tag": "MIBR",
-              "agent": "Jett"
-            },
-            {
-              "player": "tex",
-              "team_tag": "MIBR",
-              "agent": "Astra"
-            },
-            {
-              "player": "Mazino",
-              "team_tag": "MIBR",
-              "agent": "Harbor"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "LEVIATÁN",
-          "team2": "MIBR",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Astra"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Sova"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "zekken",
-              "team_tag": "MIBR",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "aspas",
-              "team_tag": "MIBR",
-              "agent": "Jett"
-            },
-            {
-              "player": "Verno",
-              "team_tag": "MIBR",
-              "agent": "Fade"
-            },
-            {
-              "player": "Mazino",
-              "team_tag": "MIBR",
-              "agent": "Omen"
-            },
-            {
-              "player": "tex",
-              "team_tag": "MIBR",
-              "agent": "Chamber"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "645492",
-      "teams": [
-        "Evil Geniuses",
-        "NRG"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Evil+Geniuses+vs+NRG++VOD",
-      "maps": [
-        {
-          "map_name": "Fracture",
-          "team1": "Evil Geniuses",
-          "team2": "NRG",
-          "score": "8-13",
-          "players": [
-            {
-              "player": "dgzin",
-              "team_tag": "EG",
-              "agent": "Chamber"
-            },
-            {
-              "player": "supamen",
-              "team_tag": "EG",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "bao",
-              "team_tag": "EG",
-              "agent": "Breach"
-            },
-            {
-              "player": "C0M",
-              "team_tag": "EG",
-              "agent": "Sova"
-            },
-            {
-              "player": "Okeanos",
-              "team_tag": "EG",
-              "agent": "Neon"
-            },
-            {
-              "player": "brawk",
-              "team_tag": "NRG",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Ethan",
-              "team_tag": "NRG",
-              "agent": "Fade"
-            },
-            {
-              "player": "keiko",
-              "team_tag": "NRG",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "skuba",
-              "team_tag": "NRG",
-              "agent": "Cypher"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "Evil Geniuses",
-          "team2": "NRG",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "bao",
-              "team_tag": "EG",
-              "agent": "Vyse"
-            },
-            {
-              "player": "C0M",
-              "team_tag": "EG",
-              "agent": "Fade"
-            },
-            {
-              "player": "supamen",
-              "team_tag": "EG",
-              "agent": "Astra"
-            },
-            {
-              "player": "Okeanos",
-              "team_tag": "EG",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "dgzin",
-              "team_tag": "EG",
-              "agent": "Neon"
-            },
-            {
-              "player": "brawk",
-              "team_tag": "NRG",
-              "agent": "Sova"
-            },
-            {
-              "player": "mada",
-              "team_tag": "NRG",
-              "agent": "Neon"
-            },
-            {
-              "player": "skuba",
-              "team_tag": "NRG",
-              "agent": "Astra"
-            },
-            {
-              "player": "keiko",
-              "team_tag": "NRG",
-              "agent": "Killjoy"
             }
           ]
         }
