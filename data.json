@@ -12,6 +12,133 @@
   ],
   "matches": [
     {
+      "id": "666489",
+      "teams": [
+        "Kiwoom DRX",
+        "FULL SENSE"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Kiwoom+DRX+vs+FULL+SENSE++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "Kiwoom DRX",
+          "team2": "FULL SENSE",
+          "score": "9-13",
+          "players": [
+            {
+              "player": "MaKo",
+              "team_tag": "KRX",
+              "agent": "Omen"
+            },
+            {
+              "player": "BeYN",
+              "team_tag": "KRX",
+              "agent": "Fade"
+            },
+            {
+              "player": "HYUNMIN",
+              "team_tag": "KRX",
+              "agent": "Raze"
+            },
+            {
+              "player": "free1ng",
+              "team_tag": "KRX",
+              "agent": "Neon"
+            },
+            {
+              "player": "Hermes",
+              "team_tag": "KRX",
+              "agent": "Vyse"
+            },
+            {
+              "player": "JitBoyS",
+              "team_tag": "FS",
+              "agent": "Raze"
+            },
+            {
+              "player": "Leviathan",
+              "team_tag": "FS",
+              "agent": "Omen"
+            },
+            {
+              "player": "Crws",
+              "team_tag": "FS",
+              "agent": "Vyse"
+            },
+            {
+              "player": "primmie",
+              "team_tag": "FS",
+              "agent": "Jett"
+            },
+            {
+              "player": "Killua",
+              "team_tag": "FS",
+              "agent": "Skye"
+            }
+          ]
+        },
+        {
+          "map_name": "Fracture",
+          "team1": "Kiwoom DRX",
+          "team2": "FULL SENSE",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "HYUNMIN",
+              "team_tag": "KRX",
+              "agent": "Raze"
+            },
+            {
+              "player": "MaKo",
+              "team_tag": "KRX",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "free1ng",
+              "team_tag": "KRX",
+              "agent": "Neon"
+            },
+            {
+              "player": "Hermes",
+              "team_tag": "KRX",
+              "agent": "Cypher"
+            },
+            {
+              "player": "BeYN",
+              "team_tag": "KRX",
+              "agent": "Breach"
+            },
+            {
+              "player": "primmie",
+              "team_tag": "FS",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Leviathan",
+              "team_tag": "FS",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Killua",
+              "team_tag": "FS",
+              "agent": "Fade"
+            },
+            {
+              "player": "Crws",
+              "team_tag": "FS",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "JitBoyS",
+              "team_tag": "FS",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "666488",
       "teams": [
         "Rex Regum Qeon",
@@ -14716,133 +14843,6 @@
               "player": "keiko",
               "team_tag": "NRG",
               "agent": "Killjoy"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "644739",
-      "teams": [
-        "Gentle Mates",
-        "Team Liquid"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Gentle+Mates+vs+Team+Liquid++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "Gentle Mates",
-          "team2": "Team Liquid",
-          "score": "8-13",
-          "players": [
-            {
-              "player": "marteen",
-              "team_tag": "M8",
-              "agent": "Raze"
-            },
-            {
-              "player": "starxo",
-              "team_tag": "M8",
-              "agent": "Fade"
-            },
-            {
-              "player": "GLYPH",
-              "team_tag": "M8",
-              "agent": "Omen"
-            },
-            {
-              "player": "bipo",
-              "team_tag": "M8",
-              "agent": "Neon"
-            },
-            {
-              "player": "Minny",
-              "team_tag": "M8",
-              "agent": "Viper"
-            },
-            {
-              "player": "nAts",
-              "team_tag": "TL",
-              "agent": "Viper"
-            },
-            {
-              "player": "MiniBoo",
-              "team_tag": "TL",
-              "agent": "Neon"
-            },
-            {
-              "player": "wayne",
-              "team_tag": "TL",
-              "agent": "Astra"
-            },
-            {
-              "player": "kamo",
-              "team_tag": "TL",
-              "agent": "Raze"
-            },
-            {
-              "player": "purp0",
-              "team_tag": "TL",
-              "agent": "Skye"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "Gentle Mates",
-          "team2": "Team Liquid",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "marteen",
-              "team_tag": "M8",
-              "agent": "Raze"
-            },
-            {
-              "player": "Minny",
-              "team_tag": "M8",
-              "agent": "Vyse"
-            },
-            {
-              "player": "starxo",
-              "team_tag": "M8",
-              "agent": "Fade"
-            },
-            {
-              "player": "GLYPH",
-              "team_tag": "M8",
-              "agent": "Omen"
-            },
-            {
-              "player": "bipo",
-              "team_tag": "M8",
-              "agent": "Neon"
-            },
-            {
-              "player": "purp0",
-              "team_tag": "TL",
-              "agent": "Fade"
-            },
-            {
-              "player": "MiniBoo",
-              "team_tag": "TL",
-              "agent": "Neon"
-            },
-            {
-              "player": "wayne",
-              "team_tag": "TL",
-              "agent": "Omen"
-            },
-            {
-              "player": "nAts",
-              "team_tag": "TL",
-              "agent": "Cypher"
-            },
-            {
-              "player": "kamo",
-              "team_tag": "TL",
-              "agent": "Raze"
             }
           ]
         }
