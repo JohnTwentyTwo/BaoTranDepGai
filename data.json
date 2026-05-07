@@ -12,6 +12,133 @@
   ],
   "matches": [
     {
+      "id": "666488",
+      "teams": [
+        "Rex Regum Qeon",
+        "Global Esports"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Rex+Regum+Qeon+vs+Global+Esports++VOD",
+      "maps": [
+        {
+          "map_name": "Breeze",
+          "team1": "Rex Regum Qeon",
+          "team2": "Global Esports",
+          "score": "11-13",
+          "players": [
+            {
+              "player": "Kushy",
+              "team_tag": "RRQ",
+              "agent": "Sova"
+            },
+            {
+              "player": "xffero",
+              "team_tag": "RRQ",
+              "agent": "Viper"
+            },
+            {
+              "player": "crazyguy",
+              "team_tag": "RRQ",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "Jemkin",
+              "team_tag": "RRQ",
+              "agent": "Neon"
+            },
+            {
+              "player": "Monyet",
+              "team_tag": "RRQ",
+              "agent": "Harbor"
+            },
+            {
+              "player": "UdoTan",
+              "team_tag": "GE",
+              "agent": "Neon"
+            },
+            {
+              "player": "PatMen",
+              "team_tag": "GE",
+              "agent": "Viper"
+            },
+            {
+              "player": "xavi8k",
+              "team_tag": "GE",
+              "agent": "Sage"
+            },
+            {
+              "player": "Kr1stal",
+              "team_tag": "GE",
+              "agent": "Sova"
+            },
+            {
+              "player": "Autumn",
+              "team_tag": "GE",
+              "agent": "Chamber"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "Rex Regum Qeon",
+          "team2": "Global Esports",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "Monyet",
+              "team_tag": "RRQ",
+              "agent": "Neon"
+            },
+            {
+              "player": "Kushy",
+              "team_tag": "RRQ",
+              "agent": "Skye"
+            },
+            {
+              "player": "Jemkin",
+              "team_tag": "RRQ",
+              "agent": "Chamber"
+            },
+            {
+              "player": "xffero",
+              "team_tag": "RRQ",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "crazyguy",
+              "team_tag": "RRQ",
+              "agent": "Astra"
+            },
+            {
+              "player": "Kr1stal",
+              "team_tag": "GE",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "PatMen",
+              "team_tag": "GE",
+              "agent": "Fade"
+            },
+            {
+              "player": "Autumn",
+              "team_tag": "GE",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "xavi8k",
+              "team_tag": "GE",
+              "agent": "Astra"
+            },
+            {
+              "player": "UdoTan",
+              "team_tag": "GE",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "665739",
       "teams": [
         "Frost White",
@@ -14716,123 +14843,6 @@
               "player": "kamo",
               "team_tag": "TL",
               "agent": "Raze"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "644738",
-      "teams": [
-        "GIANTX",
-        "Eternal Fire"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+GIANTX+vs+Eternal+Fire++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "GIANTX",
-          "team2": "Eternal Fire",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Viper"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Astra"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Skye"
-            },
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Favian",
-              "team_tag": "EF",
-              "agent": "Raze"
-            },
-            {
-              "player": "echo",
-              "team_tag": "EF",
-              "agent": "Viper"
-            },
-            {
-              "player": "nekky",
-              "team_tag": "EF",
-              "agent": "Fade"
-            },
-            {
-              "player": "audaz",
-              "team_tag": "EF",
-              "agent": "Omen"
-            },
-            {
-              "player": "Izzy",
-              "team_tag": "EF",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Breeze",
-          "team1": "GIANTX",
-          "team2": "Eternal Fire",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Viper"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Omen"
-            },
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Sova"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Skye"
-            },
-            {
-              "player": "Favian",
-              "team_tag": "EF",
-              "agent": "Skye"
-            },
-            {
-              "player": "audaz",
-              "team_tag": "EF",
-              "agent": "Astra"
-            },
-            {
-              "player": "echo",
-              "team_tag": "EF",
-              "agent": "Viper"
-            },
-            {
-              "player": "Izzy",
-              "team_tag": "EF",
-              "agent": "Neon"
             }
           ]
         }
