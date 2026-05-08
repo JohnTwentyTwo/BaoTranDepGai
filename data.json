@@ -134,6 +134,171 @@
       ]
     },
     {
+      "id": "659486",
+      "teams": [
+        "All Gamers",
+        "Dragon Ranger Gaming"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+All+Gamers+vs+Dragon+Ranger+Gaming++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "All Gamers",
+          "team2": "Dragon Ranger Gaming",
+          "score": "8-13",
+          "players": [
+            {
+              "player": "iamgrq",
+              "team_tag": "AG",
+              "agent": "Omen"
+            },
+            {
+              "player": "Shr1mp",
+              "team_tag": "AG",
+              "agent": "Fade"
+            },
+            {
+              "player": "K1ra",
+              "team_tag": "AG",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Bai",
+              "team_tag": "AG",
+              "agent": "Neon"
+            },
+            {
+              "player": "Flex1n",
+              "team_tag": "DRG",
+              "agent": "Omen"
+            },
+            {
+              "player": "vo0kashu",
+              "team_tag": "DRG",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Nicc",
+              "team_tag": "DRG",
+              "agent": "Skye"
+            },
+            {
+              "player": "Life",
+              "team_tag": "DRG",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "All Gamers",
+          "team2": "Dragon Ranger Gaming",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "iamgrq",
+              "team_tag": "AG",
+              "agent": "Omen"
+            },
+            {
+              "player": "Shr1mp",
+              "team_tag": "AG",
+              "agent": "Skye"
+            },
+            {
+              "player": "Bai",
+              "team_tag": "AG",
+              "agent": "Viper"
+            },
+            {
+              "player": "K1ra",
+              "team_tag": "AG",
+              "agent": "Raze"
+            },
+            {
+              "player": "f4ngeer",
+              "team_tag": "AG",
+              "agent": "Jett"
+            },
+            {
+              "player": "vo0kashu",
+              "team_tag": "DRG",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Flex1n",
+              "team_tag": "DRG",
+              "agent": "Astra"
+            },
+            {
+              "player": "Nicc",
+              "team_tag": "DRG",
+              "agent": "Fade"
+            },
+            {
+              "player": "Life",
+              "team_tag": "DRG",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "All Gamers",
+          "team2": "Dragon Ranger Gaming",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "f4ngeer",
+              "team_tag": "AG",
+              "agent": "Jett"
+            },
+            {
+              "player": "Shr1mp",
+              "team_tag": "AG",
+              "agent": "Skye"
+            },
+            {
+              "player": "K1ra",
+              "team_tag": "AG",
+              "agent": "Cypher"
+            },
+            {
+              "player": "iamgrq",
+              "team_tag": "AG",
+              "agent": "Omen"
+            },
+            {
+              "player": "Bai",
+              "team_tag": "AG",
+              "agent": "Neon"
+            },
+            {
+              "player": "vo0kashu",
+              "team_tag": "DRG",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Flex1n",
+              "team_tag": "DRG",
+              "agent": "Omen"
+            },
+            {
+              "player": "Nicc",
+              "team_tag": "DRG",
+              "agent": "Skye"
+            },
+            {
+              "player": "Life",
+              "team_tag": "DRG",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "659480",
       "teams": [
         "Xi Lai Gaming",
@@ -14741,191 +14906,6 @@
               "player": "hezacoil",
               "team_tag": "REBO",
               "agent": "Harbor"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "657981",
-      "teams": [
-        "Bitfix Gaming",
-        "BONK"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Bitfix+Gaming+vs+BONK++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "Bitfix Gaming",
-          "team2": "BONK",
-          "score": "8-13",
-          "players": [
-            {
-              "player": "archiw0w",
-              "team_tag": "BFG",
-              "agent": "Skye"
-            },
-            {
-              "player": "neveR",
-              "team_tag": "BFG",
-              "agent": "Chamber"
-            },
-            {
-              "player": "drepeex",
-              "team_tag": "BFG",
-              "agent": "Astra"
-            },
-            {
-              "player": "foe",
-              "team_tag": "BFG",
-              "agent": "Neon"
-            },
-            {
-              "player": "sunfloweR",
-              "team_tag": "BFG",
-              "agent": "Viper"
-            },
-            {
-              "player": "Fezisss",
-              "team_tag": "BNK",
-              "agent": "Omen"
-            },
-            {
-              "player": "narky",
-              "team_tag": "BNK",
-              "agent": "Neon"
-            },
-            {
-              "player": "Waddles",
-              "team_tag": "BNK",
-              "agent": "Skye"
-            },
-            {
-              "player": "Corsa",
-              "team_tag": "BNK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Keatz",
-              "team_tag": "BNK",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "Bitfix Gaming",
-          "team2": "BONK",
-          "score": "13-8",
-          "players": [
-            {
-              "player": "archiw0w",
-              "team_tag": "BFG",
-              "agent": "Fade"
-            },
-            {
-              "player": "sunfloweR",
-              "team_tag": "BFG",
-              "agent": "Omen"
-            },
-            {
-              "player": "drepeex",
-              "team_tag": "BFG",
-              "agent": "Viper"
-            },
-            {
-              "player": "neveR",
-              "team_tag": "BFG",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "foe",
-              "team_tag": "BFG",
-              "agent": "Neon"
-            },
-            {
-              "player": "Corsa",
-              "team_tag": "BNK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Fezisss",
-              "team_tag": "BNK",
-              "agent": "Omen"
-            },
-            {
-              "player": "narky",
-              "team_tag": "BNK",
-              "agent": "Neon"
-            },
-            {
-              "player": "Waddles",
-              "team_tag": "BNK",
-              "agent": "Fade"
-            },
-            {
-              "player": "Keatz",
-              "team_tag": "BNK",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "Bitfix Gaming",
-          "team2": "BONK",
-          "score": "13-8",
-          "players": [
-            {
-              "player": "foe",
-              "team_tag": "BFG",
-              "agent": "Neon"
-            },
-            {
-              "player": "neveR",
-              "team_tag": "BFG",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "archiw0w",
-              "team_tag": "BFG",
-              "agent": "Sova"
-            },
-            {
-              "player": "drepeex",
-              "team_tag": "BFG",
-              "agent": "Cypher"
-            },
-            {
-              "player": "sunfloweR",
-              "team_tag": "BFG",
-              "agent": "Omen"
-            },
-            {
-              "player": "Corsa",
-              "team_tag": "BNK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Waddles",
-              "team_tag": "BNK",
-              "agent": "Breach"
-            },
-            {
-              "player": "narky",
-              "team_tag": "BNK",
-              "agent": "Neon"
-            },
-            {
-              "player": "Fezisss",
-              "team_tag": "BNK",
-              "agent": "Omen"
-            },
-            {
-              "player": "Keatz",
-              "team_tag": "BNK",
-              "agent": "Sova"
             }
           ]
         }
