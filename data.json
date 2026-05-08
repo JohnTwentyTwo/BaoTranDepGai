@@ -12,6 +12,186 @@
   ],
   "matches": [
     {
+      "id": "660383",
+      "teams": [
+        "FUT Esports",
+        "Eternal Fire"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FUT+Esports+vs+Eternal+Fire++VOD",
+      "maps": [
+        {
+          "map_name": "Pearl",
+          "team1": "FUT Esports",
+          "team2": "Eternal Fire",
+          "score": "5-13",
+          "players": [
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Astra"
+            },
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Cypher"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Fade"
+            },
+            {
+              "player": "xeus",
+              "team_tag": "FUT",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Astra"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Neon"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Fade"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "FUT Esports",
+          "team2": "Eternal Fire",
+          "score": "13-4",
+          "players": [
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Sova"
+            },
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Cypher"
+            },
+            {
+              "player": "xeus",
+              "team_tag": "FUT",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Sova"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "FUT Esports",
+          "team2": "Eternal Fire",
+          "score": "13-11",
+          "players": [
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Skye"
+            },
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Viper"
+            },
+            {
+              "player": "xeus",
+              "team_tag": "FUT",
+              "agent": "Raze"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Viper"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Fade"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Raze"
+            },
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Omen"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "666491",
       "teams": [
         "T1",
@@ -14731,181 +14911,6 @@
               "player": "ease",
               "team_tag": "FLK",
               "agent": "Omen"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "661069",
-      "teams": [
-        "Beşiktaş Esports",
-        "REBORN"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Be%C5%9Fikta%C5%9F+Esports+vs+REBORN++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "Beşiktaş Esports",
-          "team2": "REBORN",
-          "score": "5-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Neon"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Viper"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Omen"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Raze"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Skye"
-            },
-            {
-              "player": "Kachoww",
-              "team_tag": "REBO",
-              "agent": "Neon"
-            },
-            {
-              "player": "batujnax",
-              "team_tag": "REBO",
-              "agent": "Skye"
-            },
-            {
-              "player": "hezacoil",
-              "team_tag": "REBO",
-              "agent": "Astra"
-            },
-            {
-              "player": "reazy",
-              "team_tag": "REBO",
-              "agent": "Omen"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "Beşiktaş Esports",
-          "team2": "REBORN",
-          "score": "17-15",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Vyse"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Viper"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Raze"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Fade"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Omen"
-            },
-            {
-              "player": "Kachoww",
-              "team_tag": "REBO",
-              "agent": "Neon"
-            },
-            {
-              "player": "reazy",
-              "team_tag": "REBO",
-              "agent": "Omen"
-            },
-            {
-              "player": "batujnax",
-              "team_tag": "REBO",
-              "agent": "Fade"
-            },
-            {
-              "player": "hezacoil",
-              "team_tag": "REBO",
-              "agent": "Vyse"
-            }
-          ]
-        },
-        {
-          "map_name": "Breeze",
-          "team1": "Beşiktaş Esports",
-          "team2": "REBORN",
-          "score": "8-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Viper"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Neon"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Harbor"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Sova"
-            },
-            {
-              "player": "Kachoww",
-              "team_tag": "REBO",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "reazy",
-              "team_tag": "REBO",
-              "agent": "Viper"
-            },
-            {
-              "player": "DeadInk",
-              "team_tag": "REBO",
-              "agent": "Neon"
-            },
-            {
-              "player": "batujnax",
-              "team_tag": "REBO",
-              "agent": "Sova"
-            },
-            {
-              "player": "hezacoil",
-              "team_tag": "REBO",
-              "agent": "Harbor"
             }
           ]
         }
