@@ -12,6 +12,191 @@
   ],
   "matches": [
     {
+      "id": "660388",
+      "teams": [
+        "Team Liquid",
+        "Gentle Mates"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Team+Liquid+vs+Gentle+Mates++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "Team Liquid",
+          "team2": "Gentle Mates",
+          "score": "13-4",
+          "players": [
+            {
+              "player": "wayne",
+              "team_tag": "TL",
+              "agent": "Astra"
+            },
+            {
+              "player": "kamo",
+              "team_tag": "TL",
+              "agent": "Raze"
+            },
+            {
+              "player": "purp0",
+              "team_tag": "TL",
+              "agent": "Skye"
+            },
+            {
+              "player": "MiniBoo",
+              "team_tag": "TL",
+              "agent": "Neon"
+            },
+            {
+              "player": "nAts",
+              "team_tag": "TL",
+              "agent": "Viper"
+            },
+            {
+              "player": "marteen",
+              "team_tag": "M8",
+              "agent": "Raze"
+            },
+            {
+              "player": "GLYPH",
+              "team_tag": "M8",
+              "agent": "Astra"
+            },
+            {
+              "player": "Minny",
+              "team_tag": "M8",
+              "agent": "Viper"
+            },
+            {
+              "player": "bipo",
+              "team_tag": "M8",
+              "agent": "Jett"
+            },
+            {
+              "player": "starxo",
+              "team_tag": "M8",
+              "agent": "Skye"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "Team Liquid",
+          "team2": "Gentle Mates",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "kamo",
+              "team_tag": "TL",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "MiniBoo",
+              "team_tag": "TL",
+              "agent": "Neon"
+            },
+            {
+              "player": "purp0",
+              "team_tag": "TL",
+              "agent": "Sova"
+            },
+            {
+              "player": "wayne",
+              "team_tag": "TL",
+              "agent": "Omen"
+            },
+            {
+              "player": "nAts",
+              "team_tag": "TL",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Minny",
+              "team_tag": "M8",
+              "agent": "Cypher"
+            },
+            {
+              "player": "GLYPH",
+              "team_tag": "M8",
+              "agent": "Omen"
+            },
+            {
+              "player": "starxo",
+              "team_tag": "M8",
+              "agent": "Sova"
+            },
+            {
+              "player": "marteen",
+              "team_tag": "M8",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "bipo",
+              "team_tag": "M8",
+              "agent": "Jett"
+            }
+          ]
+        },
+        {
+          "map_name": "Fracture",
+          "team1": "Team Liquid",
+          "team2": "Gentle Mates",
+          "score": "2-13",
+          "players": [
+            {
+              "player": "wayne",
+              "team_tag": "TL",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "MiniBoo",
+              "team_tag": "TL",
+              "agent": "Neon"
+            },
+            {
+              "player": "nAts",
+              "team_tag": "TL",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "purp0",
+              "team_tag": "TL",
+              "agent": "Breach"
+            },
+            {
+              "player": "kamo",
+              "team_tag": "TL",
+              "agent": "Raze"
+            },
+            {
+              "player": "marteen",
+              "team_tag": "M8",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "starxo",
+              "team_tag": "M8",
+              "agent": "Fade"
+            },
+            {
+              "player": "Minny",
+              "team_tag": "M8",
+              "agent": "Cypher"
+            },
+            {
+              "player": "GLYPH",
+              "team_tag": "M8",
+              "agent": "Astra"
+            },
+            {
+              "player": "bipo",
+              "team_tag": "M8",
+              "agent": "Raze"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "660387",
       "teams": [
         "Team Heretics",
@@ -14963,191 +15148,6 @@
               "player": "Zellsis",
               "team_tag": "C9",
               "agent": "Harbor"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "649787",
-      "teams": [
-        "Mandatory",
-        "F9 EICAR"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Mandatory+vs+F9+EICAR++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "Mandatory",
-          "team2": "F9 EICAR",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "TakaS",
-              "team_tag": "MDR",
-              "agent": "Neon"
-            },
-            {
-              "player": "Kada",
-              "team_tag": "MDR",
-              "agent": "Skye"
-            },
-            {
-              "player": "sh1n",
-              "team_tag": "MDR",
-              "agent": "Omen"
-            },
-            {
-              "player": "nataNk",
-              "team_tag": "MDR",
-              "agent": "Sage"
-            },
-            {
-              "player": "Sevire",
-              "team_tag": "MDR",
-              "agent": "Viper"
-            },
-            {
-              "player": "izana",
-              "team_tag": "F9",
-              "agent": "Viper"
-            },
-            {
-              "player": "DeepMans",
-              "team_tag": "F9",
-              "agent": "Skye"
-            },
-            {
-              "player": "Destrian",
-              "team_tag": "F9",
-              "agent": "Omen"
-            },
-            {
-              "player": "Kipperman",
-              "team_tag": "F9",
-              "agent": "Neon"
-            },
-            {
-              "player": "Tenshi",
-              "team_tag": "F9",
-              "agent": "Raze"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "Mandatory",
-          "team2": "F9 EICAR",
-          "score": "13-6",
-          "players": [
-            {
-              "player": "nataNk",
-              "team_tag": "MDR",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "TakaS",
-              "team_tag": "MDR",
-              "agent": "Neon"
-            },
-            {
-              "player": "Kada",
-              "team_tag": "MDR",
-              "agent": "Sova"
-            },
-            {
-              "player": "Sevire",
-              "team_tag": "MDR",
-              "agent": "Omen"
-            },
-            {
-              "player": "sh1n",
-              "team_tag": "MDR",
-              "agent": "Viper"
-            },
-            {
-              "player": "Kipperman",
-              "team_tag": "F9",
-              "agent": "Neon"
-            },
-            {
-              "player": "izana",
-              "team_tag": "F9",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "DeepMans",
-              "team_tag": "F9",
-              "agent": "Sova"
-            },
-            {
-              "player": "Destrian",
-              "team_tag": "F9",
-              "agent": "Omen"
-            },
-            {
-              "player": "Tenshi",
-              "team_tag": "F9",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Fracture",
-          "team1": "Mandatory",
-          "team2": "F9 EICAR",
-          "score": "13-10",
-          "players": [
-            {
-              "player": "TakaS",
-              "team_tag": "MDR",
-              "agent": "Neon"
-            },
-            {
-              "player": "sh1n",
-              "team_tag": "MDR",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Sevire",
-              "team_tag": "MDR",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "nataNk",
-              "team_tag": "MDR",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Kada",
-              "team_tag": "MDR",
-              "agent": "Skye"
-            },
-            {
-              "player": "Tenshi",
-              "team_tag": "F9",
-              "agent": "Breach"
-            },
-            {
-              "player": "DeepMans",
-              "team_tag": "F9",
-              "agent": "Fade"
-            },
-            {
-              "player": "Kipperman",
-              "team_tag": "F9",
-              "agent": "Neon"
-            },
-            {
-              "player": "Destrian",
-              "team_tag": "F9",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "izana",
-              "team_tag": "F9",
-              "agent": "Cypher"
             }
           ]
         }
