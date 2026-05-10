@@ -13,6 +13,133 @@
   ],
   "matches": [
     {
+      "id": "660390",
+      "teams": [
+        "Eternal Fire",
+        "Gentle Mates"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Eternal+Fire+vs+Gentle+Mates++VOD",
+      "maps": [
+        {
+          "map_name": "Ascent",
+          "team1": "Eternal Fire",
+          "team2": "Gentle Mates",
+          "score": "13-5",
+          "players": [
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Jett"
+            },
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Astra"
+            },
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Sova"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Minny",
+              "team_tag": "M8",
+              "agent": "Cypher"
+            },
+            {
+              "player": "starxo",
+              "team_tag": "M8",
+              "agent": "Sova"
+            },
+            {
+              "player": "marteen",
+              "team_tag": "M8",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "bipo",
+              "team_tag": "M8",
+              "agent": "Jett"
+            },
+            {
+              "player": "GLYPH",
+              "team_tag": "M8",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "Eternal Fire",
+          "team2": "Gentle Mates",
+          "score": "13-9",
+          "players": [
+            {
+              "player": "nekky",
+              "team_tag": "EF",
+              "agent": "Fade"
+            },
+            {
+              "player": "audaz",
+              "team_tag": "EF",
+              "agent": "Omen"
+            },
+            {
+              "player": "Favian",
+              "team_tag": "EF",
+              "agent": "Raze"
+            },
+            {
+              "player": "echo",
+              "team_tag": "EF",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Izzy",
+              "team_tag": "EF",
+              "agent": "Neon"
+            },
+            {
+              "player": "GLYPH",
+              "team_tag": "M8",
+              "agent": "Omen"
+            },
+            {
+              "player": "Minny",
+              "team_tag": "M8",
+              "agent": "Cypher"
+            },
+            {
+              "player": "starxo",
+              "team_tag": "M8",
+              "agent": "Fade"
+            },
+            {
+              "player": "marteen",
+              "team_tag": "M8",
+              "agent": "Raze"
+            },
+            {
+              "player": "bipo",
+              "team_tag": "M8",
+              "agent": "Jett"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "660389",
       "teams": [
         "FNATIC",
@@ -15390,128 +15517,6 @@
               "player": "Fetiz",
               "team_tag": "BRK",
               "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "660446",
-      "teams": [
-        "HARU Esports",
-        "Zorvex"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+HARU+Esports+vs+Zorvex++VOD",
-      "maps": [
-        {
-          "map_name": "Breeze",
-          "team1": "HARU Esports",
-          "team2": "Zorvex",
-          "score": "5-13",
-          "players": [
-            {
-              "player": "Kael",
-              "team_tag": "HARU",
-              "agent": "Astra"
-            },
-            {
-              "player": "jaso",
-              "team_tag": "HARU",
-              "agent": "Viper"
-            },
-            {
-              "player": "migz",
-              "team_tag": "HARU",
-              "agent": "Neon"
-            },
-            {
-              "player": "tomix",
-              "team_tag": "HARU",
-              "agent": "Jett"
-            },
-            {
-              "player": "Funky",
-              "team_tag": "HARU",
-              "agent": "Sova"
-            },
-            {
-              "player": "Jung",
-              "team_tag": "ZX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Shintaro",
-              "team_tag": "ZX",
-              "agent": "Omen"
-            },
-            {
-              "player": "Repulsive",
-              "team_tag": "ZX",
-              "agent": "Viper"
-            },
-            {
-              "player": "Kevzii",
-              "team_tag": "ZX",
-              "agent": "Sova"
-            },
-            {
-              "player": "Chuchu",
-              "team_tag": "ZX",
-              "agent": "Jett"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "HARU Esports",
-          "team2": "Zorvex",
-          "score": "6-13",
-          "players": [
-            {
-              "player": "jaso",
-              "team_tag": "HARU",
-              "agent": "Omen"
-            },
-            {
-              "player": "migz",
-              "team_tag": "HARU",
-              "agent": "Neon"
-            },
-            {
-              "player": "Funky",
-              "team_tag": "HARU",
-              "agent": "Skye"
-            },
-            {
-              "player": "Kael",
-              "team_tag": "HARU",
-              "agent": "Viper"
-            },
-            {
-              "player": "Jung",
-              "team_tag": "ZX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Chuchu",
-              "team_tag": "ZX",
-              "agent": "Raze"
-            },
-            {
-              "player": "Kevzii",
-              "team_tag": "ZX",
-              "agent": "Fade"
-            },
-            {
-              "player": "Shintaro",
-              "team_tag": "ZX",
-              "agent": "Viper"
-            },
-            {
-              "player": "Repulsive",
-              "team_tag": "ZX",
-              "agent": "Omen"
             }
           ]
         }
