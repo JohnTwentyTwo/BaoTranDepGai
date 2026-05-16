@@ -13,6 +13,239 @@
   ],
   "matches": [
     {
+      "id": "660392",
+      "teams": [
+        "FUT Esports",
+        "Team Heretics"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FUT+Esports+vs+Team+Heretics++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "FUT Esports",
+          "team2": "Team Heretics",
+          "score": "15-13",
+          "players": [
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Cypher"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Sova"
+            },
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Sova"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Jett"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Omen"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Cypher"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "FUT Esports",
+          "team2": "Team Heretics",
+          "score": "4-13",
+          "players": [
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Fade"
+            },
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Viper"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Raze"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Omen"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Fade"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "FUT Esports",
+          "team2": "Team Heretics",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Sova"
+            },
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Cypher"
+            },
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "xeus",
+              "team_tag": "FUT",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Sova"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Omen"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Cypher"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Jett"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "FUT Esports",
+          "team2": "Team Heretics",
+          "score": "1-13",
+          "players": [
+            {
+              "player": "yetujey",
+              "team_tag": "FUT",
+              "agent": "Viper"
+            },
+            {
+              "player": "xeus",
+              "team_tag": "FUT",
+              "agent": "Jett"
+            },
+            {
+              "player": "KROSTALY",
+              "team_tag": "FUT",
+              "agent": "Sova"
+            },
+            {
+              "player": "sociablEE",
+              "team_tag": "FUT",
+              "agent": "Omen"
+            },
+            {
+              "player": "s0pp",
+              "team_tag": "FUT",
+              "agent": "Neon"
+            },
+            {
+              "player": "RieNs",
+              "team_tag": "TH",
+              "agent": "Sova"
+            },
+            {
+              "player": "Wo0t",
+              "team_tag": "TH",
+              "agent": "Chamber"
+            },
+            {
+              "player": "benjyfishy",
+              "team_tag": "TH",
+              "agent": "Viper"
+            },
+            {
+              "player": "koshmaras",
+              "team_tag": "TH",
+              "agent": "Neon"
+            },
+            {
+              "player": "Boo",
+              "team_tag": "TH",
+              "agent": "Sage"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "666499",
       "teams": [
         "Global Esports",
@@ -16747,133 +16980,6 @@
             {
               "player": "JitBoyS",
               "team_tag": "FS",
-              "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "666488",
-      "teams": [
-        "Rex Regum Qeon",
-        "Global Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Rex+Regum+Qeon+vs+Global+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Breeze",
-          "team1": "Rex Regum Qeon",
-          "team2": "Global Esports",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "Kushy",
-              "team_tag": "RRQ",
-              "agent": "Sova"
-            },
-            {
-              "player": "xffero",
-              "team_tag": "RRQ",
-              "agent": "Viper"
-            },
-            {
-              "player": "crazyguy",
-              "team_tag": "RRQ",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Jemkin",
-              "team_tag": "RRQ",
-              "agent": "Neon"
-            },
-            {
-              "player": "Monyet",
-              "team_tag": "RRQ",
-              "agent": "Harbor"
-            },
-            {
-              "player": "UdoTan",
-              "team_tag": "GE",
-              "agent": "Neon"
-            },
-            {
-              "player": "PatMen",
-              "team_tag": "GE",
-              "agent": "Viper"
-            },
-            {
-              "player": "xavi8k",
-              "team_tag": "GE",
-              "agent": "Sage"
-            },
-            {
-              "player": "Kr1stal",
-              "team_tag": "GE",
-              "agent": "Sova"
-            },
-            {
-              "player": "Autumn",
-              "team_tag": "GE",
-              "agent": "Chamber"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "Rex Regum Qeon",
-          "team2": "Global Esports",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "Monyet",
-              "team_tag": "RRQ",
-              "agent": "Neon"
-            },
-            {
-              "player": "Kushy",
-              "team_tag": "RRQ",
-              "agent": "Skye"
-            },
-            {
-              "player": "Jemkin",
-              "team_tag": "RRQ",
-              "agent": "Chamber"
-            },
-            {
-              "player": "xffero",
-              "team_tag": "RRQ",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "crazyguy",
-              "team_tag": "RRQ",
-              "agent": "Astra"
-            },
-            {
-              "player": "Kr1stal",
-              "team_tag": "GE",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "PatMen",
-              "team_tag": "GE",
-              "agent": "Fade"
-            },
-            {
-              "player": "Autumn",
-              "team_tag": "GE",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "xavi8k",
-              "team_tag": "GE",
-              "agent": "Astra"
-            },
-            {
-              "player": "UdoTan",
-              "team_tag": "GE",
               "agent": "Neon"
             }
           ]
