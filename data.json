@@ -13,6 +13,191 @@
   ],
   "matches": [
     {
+      "id": "666499",
+      "teams": [
+        "Global Esports",
+        "Paper Rex"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Global+Esports+vs+Paper+Rex++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "Global Esports",
+          "team2": "Paper Rex",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "Autumn",
+              "team_tag": "GE",
+              "agent": "Iso"
+            },
+            {
+              "player": "UdoTan",
+              "team_tag": "GE",
+              "agent": "Neon"
+            },
+            {
+              "player": "Kr1stal",
+              "team_tag": "GE",
+              "agent": "Vyse"
+            },
+            {
+              "player": "PatMen",
+              "team_tag": "GE",
+              "agent": "Omen"
+            },
+            {
+              "player": "xavi8k",
+              "team_tag": "GE",
+              "agent": "Sova"
+            },
+            {
+              "player": "invy",
+              "team_tag": "PRX",
+              "agent": "Fade"
+            },
+            {
+              "player": "something",
+              "team_tag": "PRX",
+              "agent": "Jett"
+            },
+            {
+              "player": "f0rsakeN",
+              "team_tag": "PRX",
+              "agent": "Omen"
+            },
+            {
+              "player": "Jinggg",
+              "team_tag": "PRX",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "d4v41",
+              "team_tag": "PRX",
+              "agent": "Chamber"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "Global Esports",
+          "team2": "Paper Rex",
+          "score": "4-13",
+          "players": [
+            {
+              "player": "PatMen",
+              "team_tag": "GE",
+              "agent": "Fade"
+            },
+            {
+              "player": "UdoTan",
+              "team_tag": "GE",
+              "agent": "Sage"
+            },
+            {
+              "player": "xavi8k",
+              "team_tag": "GE",
+              "agent": "Omen"
+            },
+            {
+              "player": "Autumn",
+              "team_tag": "GE",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Kr1stal",
+              "team_tag": "GE",
+              "agent": "Deadlock"
+            },
+            {
+              "player": "Jinggg",
+              "team_tag": "PRX",
+              "agent": "Raze"
+            },
+            {
+              "player": "invy",
+              "team_tag": "PRX",
+              "agent": "Skye"
+            },
+            {
+              "player": "something",
+              "team_tag": "PRX",
+              "agent": "Jett"
+            },
+            {
+              "player": "d4v41",
+              "team_tag": "PRX",
+              "agent": "Vyse"
+            },
+            {
+              "player": "f0rsakeN",
+              "team_tag": "PRX",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "Global Esports",
+          "team2": "Paper Rex",
+          "score": "11-13",
+          "players": [
+            {
+              "player": "Autumn",
+              "team_tag": "GE",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "xavi8k",
+              "team_tag": "GE",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "UdoTan",
+              "team_tag": "GE",
+              "agent": "Sage"
+            },
+            {
+              "player": "Kr1stal",
+              "team_tag": "GE",
+              "agent": "Sova"
+            },
+            {
+              "player": "PatMen",
+              "team_tag": "GE",
+              "agent": "Omen"
+            },
+            {
+              "player": "something",
+              "team_tag": "PRX",
+              "agent": "Yoru"
+            },
+            {
+              "player": "f0rsakeN",
+              "team_tag": "PRX",
+              "agent": "Omen"
+            },
+            {
+              "player": "Jinggg",
+              "team_tag": "PRX",
+              "agent": "Sage"
+            },
+            {
+              "player": "invy",
+              "team_tag": "PRX",
+              "agent": "Sova"
+            },
+            {
+              "player": "d4v41",
+              "team_tag": "PRX",
+              "agent": "Vyse"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "660372",
       "teams": [
         "KRÜ Esports",
@@ -16690,133 +16875,6 @@
               "player": "UdoTan",
               "team_tag": "GE",
               "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "669109",
-      "teams": [
-        "Contra GC",
-        "FUSION X"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Contra+GC+vs+FUSION+X++VOD",
-      "maps": [
-        {
-          "map_name": "Lotus",
-          "team1": "Contra GC",
-          "team2": "FUSION X",
-          "score": "6-13",
-          "players": [
-            {
-              "player": "Morgan",
-              "team_tag": "BBB.GC",
-              "agent": "Omen"
-            },
-            {
-              "player": "Valy",
-              "team_tag": "BBB.GC",
-              "agent": "Viper"
-            },
-            {
-              "player": "meiko",
-              "team_tag": "BBB.GC",
-              "agent": "Neon"
-            },
-            {
-              "player": "Chips",
-              "team_tag": "BBB.GC",
-              "agent": "Fade"
-            },
-            {
-              "player": "Lynxz",
-              "team_tag": "BBB.GC",
-              "agent": "Raze"
-            },
-            {
-              "player": "Atisca",
-              "team_tag": "FSX",
-              "agent": "Neon"
-            },
-            {
-              "player": "meleliita",
-              "team_tag": "FSX",
-              "agent": "Fade"
-            },
-            {
-              "player": "GuterWoman",
-              "team_tag": "FSX",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Shuba",
-              "team_tag": "FSX",
-              "agent": "Omen"
-            },
-            {
-              "player": "Kyujinn",
-              "team_tag": "FSX",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "Contra GC",
-          "team2": "FUSION X",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "Morgan",
-              "team_tag": "BBB.GC",
-              "agent": "Astra"
-            },
-            {
-              "player": "Lynxz",
-              "team_tag": "BBB.GC",
-              "agent": "Raze"
-            },
-            {
-              "player": "Valy",
-              "team_tag": "BBB.GC",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "Chips",
-              "team_tag": "BBB.GC",
-              "agent": "Fade"
-            },
-            {
-              "player": "meiko",
-              "team_tag": "BBB.GC",
-              "agent": "Neon"
-            },
-            {
-              "player": "Kyujinn",
-              "team_tag": "FSX",
-              "agent": "Fade"
-            },
-            {
-              "player": "Shuba",
-              "team_tag": "FSX",
-              "agent": "Astra"
-            },
-            {
-              "player": "GuterWoman",
-              "team_tag": "FSX",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "Atisca",
-              "team_tag": "FSX",
-              "agent": "Neon"
-            },
-            {
-              "player": "meleliita",
-              "team_tag": "FSX",
-              "agent": "Chamber"
             }
           ]
         }
