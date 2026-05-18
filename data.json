@@ -13,6 +13,133 @@
   ],
   "matches": [
     {
+      "id": "673534",
+      "teams": [
+        "Team Secret",
+        "Gen.G"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Team+Secret+vs+Gen.G++VOD",
+      "maps": [
+        {
+          "map_name": "Pearl",
+          "team1": "Team Secret",
+          "team2": "Gen.G",
+          "score": "12-14",
+          "players": [
+            {
+              "player": "kellyS",
+              "team_tag": "TS",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Sylvan",
+              "team_tag": "TS",
+              "agent": "Astra"
+            },
+            {
+              "player": "Zeus",
+              "team_tag": "TS",
+              "agent": "Neon"
+            },
+            {
+              "player": "BerserX",
+              "team_tag": "TS",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "JessieVash",
+              "team_tag": "TS",
+              "agent": "Fade"
+            },
+            {
+              "player": "Karon",
+              "team_tag": "GEN",
+              "agent": "Astra"
+            },
+            {
+              "player": "t3xture",
+              "team_tag": "GEN",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "ZynX",
+              "team_tag": "GEN",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Ash",
+              "team_tag": "GEN",
+              "agent": "Neon"
+            },
+            {
+              "player": "Lakia",
+              "team_tag": "GEN",
+              "agent": "Fade"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "Team Secret",
+          "team2": "Gen.G",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "kellyS",
+              "team_tag": "TS",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "BerserX",
+              "team_tag": "TS",
+              "agent": "Viper"
+            },
+            {
+              "player": "Zeus",
+              "team_tag": "TS",
+              "agent": "Neon"
+            },
+            {
+              "player": "Sylvan",
+              "team_tag": "TS",
+              "agent": "Astra"
+            },
+            {
+              "player": "JessieVash",
+              "team_tag": "TS",
+              "agent": "Sova"
+            },
+            {
+              "player": "t3xture",
+              "team_tag": "GEN",
+              "agent": "Jett"
+            },
+            {
+              "player": "Ash",
+              "team_tag": "GEN",
+              "agent": "Neon"
+            },
+            {
+              "player": "Karon",
+              "team_tag": "GEN",
+              "agent": "Omen"
+            },
+            {
+              "player": "ZynX",
+              "team_tag": "GEN",
+              "agent": "Viper"
+            },
+            {
+              "player": "Lakia",
+              "team_tag": "GEN",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "660378",
       "teams": [
         "MIBR",
@@ -16884,128 +17011,6 @@
               "player": "Jade",
               "team_tag": "ATNR",
               "agent": "Sova"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "666229",
-      "teams": [
-        "ZennIT Orange GC",
-        "FOKUS Sakura"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+ZennIT+Orange+GC+vs+FOKUS+Sakura++VOD",
-      "maps": [
-        {
-          "map_name": "Haven",
-          "team1": "ZennIT Orange GC",
-          "team2": "FOKUS Sakura",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "ikyoo",
-              "team_tag": "ZNT.GC",
-              "agent": "Jett"
-            },
-            {
-              "player": "Sucette",
-              "team_tag": "ZNT.GC",
-              "agent": "Omen"
-            },
-            {
-              "player": "cabbit",
-              "team_tag": "ZNT.GC",
-              "agent": "Sova"
-            },
-            {
-              "player": "matrix",
-              "team_tag": "ZNT.GC",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Valone",
-              "team_tag": "ZNT.GC",
-              "agent": "Cypher"
-            },
-            {
-              "player": "star",
-              "team_tag": "FKS.S",
-              "agent": "Jett"
-            },
-            {
-              "player": "Nidxvilco",
-              "team_tag": "FKS.S",
-              "agent": "Viper"
-            },
-            {
-              "player": "Addi",
-              "team_tag": "FKS.S",
-              "agent": "Omen"
-            },
-            {
-              "player": "strahlen",
-              "team_tag": "FKS.S",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "mali",
-              "team_tag": "FKS.S",
-              "agent": "Sova"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "ZennIT Orange GC",
-          "team2": "FOKUS Sakura",
-          "score": "8-13",
-          "players": [
-            {
-              "player": "matrix",
-              "team_tag": "ZNT.GC",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "cabbit",
-              "team_tag": "ZNT.GC",
-              "agent": "Fade"
-            },
-            {
-              "player": "ikyoo",
-              "team_tag": "ZNT.GC",
-              "agent": "Jett"
-            },
-            {
-              "player": "Sucette",
-              "team_tag": "ZNT.GC",
-              "agent": "Astra"
-            },
-            {
-              "player": "Valone",
-              "team_tag": "ZNT.GC",
-              "agent": "Cypher"
-            },
-            {
-              "player": "star",
-              "team_tag": "FKS.S",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "mali",
-              "team_tag": "FKS.S",
-              "agent": "Fade"
-            },
-            {
-              "player": "Nidxvilco",
-              "team_tag": "FKS.S",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "strahlen",
-              "team_tag": "FKS.S",
-              "agent": "Astra"
             }
           ]
         }
