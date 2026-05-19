@@ -13,6 +13,133 @@
   ],
   "matches": [
     {
+      "id": "673532",
+      "teams": [
+        "VARREL",
+        "Gen.G"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+VARREL+vs+Gen.G++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "VARREL",
+          "team2": "Gen.G",
+          "score": "3-13",
+          "players": [
+            {
+              "player": "oonzmlp",
+              "team_tag": "VL",
+              "agent": "Omen"
+            },
+            {
+              "player": "Zexy",
+              "team_tag": "VL",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Klaus",
+              "team_tag": "VL",
+              "agent": "Neon"
+            },
+            {
+              "player": "XuNa",
+              "team_tag": "VL",
+              "agent": "Sova"
+            },
+            {
+              "player": "Foxy9",
+              "team_tag": "VL",
+              "agent": "Cypher"
+            },
+            {
+              "player": "t3xture",
+              "team_tag": "GEN",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Karon",
+              "team_tag": "GEN",
+              "agent": "Omen"
+            },
+            {
+              "player": "ZynX",
+              "team_tag": "GEN",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Ash",
+              "team_tag": "GEN",
+              "agent": "Neon"
+            },
+            {
+              "player": "Lakia",
+              "team_tag": "GEN",
+              "agent": "Fade"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "VARREL",
+          "team2": "Gen.G",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "oonzmlp",
+              "team_tag": "VL",
+              "agent": "Omen"
+            },
+            {
+              "player": "Foxy9",
+              "team_tag": "VL",
+              "agent": "Viper"
+            },
+            {
+              "player": "XuNa",
+              "team_tag": "VL",
+              "agent": "Skye"
+            },
+            {
+              "player": "Klaus",
+              "team_tag": "VL",
+              "agent": "Neon"
+            },
+            {
+              "player": "Zexy",
+              "team_tag": "VL",
+              "agent": "Raze"
+            },
+            {
+              "player": "Karon",
+              "team_tag": "GEN",
+              "agent": "Astra"
+            },
+            {
+              "player": "t3xture",
+              "team_tag": "GEN",
+              "agent": "Raze"
+            },
+            {
+              "player": "Ash",
+              "team_tag": "GEN",
+              "agent": "Neon"
+            },
+            {
+              "player": "Lakia",
+              "team_tag": "GEN",
+              "agent": "Fade"
+            },
+            {
+              "player": "ZynX",
+              "team_tag": "GEN",
+              "agent": "Vyse"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "678027",
       "teams": [
         "Contra",
@@ -16134,133 +16261,6 @@
               "player": "bipo",
               "team_tag": "M8",
               "agent": "Raze"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "660387",
-      "teams": [
-        "Team Heretics",
-        "BBL Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Team+Heretics+vs+BBL+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Breeze",
-          "team1": "Team Heretics",
-          "team2": "BBL Esports",
-          "score": "13-4",
-          "players": [
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Sova"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Sage"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Chamber"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Viper"
-            },
-            {
-              "player": "Crewen",
-              "team_tag": "BBL",
-              "agent": "Viper"
-            },
-            {
-              "player": "lovers rock",
-              "team_tag": "BBL",
-              "agent": "Jett"
-            },
-            {
-              "player": "Loita",
-              "team_tag": "BBL",
-              "agent": "Omen"
-            },
-            {
-              "player": "Rosé",
-              "team_tag": "BBL",
-              "agent": "Sova"
-            },
-            {
-              "player": "Lar0k",
-              "team_tag": "BBL",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Ascent",
-          "team1": "Team Heretics",
-          "team2": "BBL Esports",
-          "score": "14-12",
-          "players": [
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Omen"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Jett"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Sova"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            },
-            {
-              "player": "Rosé",
-              "team_tag": "BBL",
-              "agent": "Sova"
-            },
-            {
-              "player": "Loita",
-              "team_tag": "BBL",
-              "agent": "Omen"
-            },
-            {
-              "player": "lovers rock",
-              "team_tag": "BBL",
-              "agent": "Jett"
-            },
-            {
-              "player": "Lar0k",
-              "team_tag": "BBL",
-              "agent": "Deadlock"
-            },
-            {
-              "player": "Crewen",
-              "team_tag": "BBL",
-              "agent": "Cypher"
             }
           ]
         }
