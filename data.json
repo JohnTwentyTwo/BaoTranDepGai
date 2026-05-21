@@ -12,6 +12,191 @@
   ],
   "matches": [
     {
+      "id": "680955",
+      "teams": [
+        "Gentle Mates GC",
+        "GIANTX GC"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Gentle+Mates+GC+vs+GIANTX+GC++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "Gentle Mates GC",
+          "team2": "GIANTX GC",
+          "score": "13-9",
+          "players": [
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Raze"
+            },
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "Breach"
+            },
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Skye"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Anva",
+              "team_tag": "GX.GC",
+              "agent": "Raze"
+            },
+            {
+              "player": "jduh",
+              "team_tag": "GX.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Anita",
+              "team_tag": "GX.GC",
+              "agent": "Viper"
+            },
+            {
+              "player": "jademwah",
+              "team_tag": "GX.GC",
+              "agent": "Skye"
+            },
+            {
+              "player": "adora",
+              "team_tag": "GX.GC",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "Gentle Mates GC",
+          "team2": "GIANTX GC",
+          "score": "8-13",
+          "players": [
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "jademwah",
+              "team_tag": "GX.GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Anva",
+              "team_tag": "GX.GC",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "jduh",
+              "team_tag": "GX.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "adora",
+              "team_tag": "GX.GC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Anita",
+              "team_tag": "GX.GC",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "Gentle Mates GC",
+          "team2": "GIANTX GC",
+          "score": "13-1",
+          "players": [
+            {
+              "player": "Marti",
+              "team_tag": "M8GC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "tokameite",
+              "team_tag": "M8GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Wens",
+              "team_tag": "M8GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Nami",
+              "team_tag": "M8GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "berryx",
+              "team_tag": "M8GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "adora",
+              "team_tag": "GX.GC",
+              "agent": "Jett"
+            },
+            {
+              "player": "Anva",
+              "team_tag": "GX.GC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "jduh",
+              "team_tag": "GX.GC",
+              "agent": "Omen"
+            },
+            {
+              "player": "jademwah",
+              "team_tag": "GX.GC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Anita",
+              "team_tag": "GX.GC",
+              "agent": "KAY/O"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681296",
       "teams": [
         "The Rad Syndicate",
@@ -14925,191 +15110,6 @@
               "player": "dos9",
               "team_tag": "KC",
               "agent": "Omen"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "673541",
-      "teams": [
-        "PCIFIC Esports",
-        "GIANTX"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+PCIFIC+Esports+vs+GIANTX++VOD",
-      "maps": [
-        {
-          "map_name": "Lotus",
-          "team1": "PCIFIC Esports",
-          "team2": "GIANTX",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "al0rante",
-              "team_tag": "PCF",
-              "agent": "Viper"
-            },
-            {
-              "player": "seven",
-              "team_tag": "PCF",
-              "agent": "Raze"
-            },
-            {
-              "player": "cNed",
-              "team_tag": "PCF",
-              "agent": "Neon"
-            },
-            {
-              "player": "NINJA",
-              "team_tag": "PCF",
-              "agent": "Fade"
-            },
-            {
-              "player": "qpert",
-              "team_tag": "PCF",
-              "agent": "Omen"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Fade"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Omen"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Vyse"
-            },
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "Harbor"
-            }
-          ]
-        },
-        {
-          "map_name": "Breeze",
-          "team1": "PCIFIC Esports",
-          "team2": "GIANTX",
-          "score": "13-11",
-          "players": [
-            {
-              "player": "seven",
-              "team_tag": "PCF",
-              "agent": "Neon"
-            },
-            {
-              "player": "al0rante",
-              "team_tag": "PCF",
-              "agent": "Astra"
-            },
-            {
-              "player": "cNed",
-              "team_tag": "PCF",
-              "agent": "Jett"
-            },
-            {
-              "player": "qpert",
-              "team_tag": "PCF",
-              "agent": "Omen"
-            },
-            {
-              "player": "NINJA",
-              "team_tag": "PCF",
-              "agent": "Sova"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Harbor"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Viper"
-            },
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Neon"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Sova"
-            }
-          ]
-        },
-        {
-          "map_name": "Ascent",
-          "team1": "PCIFIC Esports",
-          "team2": "GIANTX",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "NINJA",
-              "team_tag": "PCF",
-              "agent": "Sova"
-            },
-            {
-              "player": "cNed",
-              "team_tag": "PCF",
-              "agent": "Jett"
-            },
-            {
-              "player": "seven",
-              "team_tag": "PCF",
-              "agent": "Neon"
-            },
-            {
-              "player": "al0rante",
-              "team_tag": "PCF",
-              "agent": "Cypher"
-            },
-            {
-              "player": "qpert",
-              "team_tag": "PCF",
-              "agent": "Omen"
-            },
-            {
-              "player": "ara",
-              "team_tag": "GX",
-              "agent": "Jett"
-            },
-            {
-              "player": "grubinho",
-              "team_tag": "GX",
-              "agent": "Omen"
-            },
-            {
-              "player": "Cloud",
-              "team_tag": "GX",
-              "agent": "Sova"
-            },
-            {
-              "player": "Flickless",
-              "team_tag": "GX",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "westside",
-              "team_tag": "GX",
-              "agent": "Vyse"
             }
           ]
         }
