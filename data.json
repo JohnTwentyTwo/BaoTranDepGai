@@ -12,6 +12,307 @@
   ],
   "matches": [
     {
+      "id": "674859",
+      "teams": [
+        "FNATIC",
+        "Karmine Corp"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FNATIC+vs+Karmine+Corp++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "FNATIC",
+          "team2": "Karmine Corp",
+          "score": "9-13",
+          "players": [
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "Deadlock"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Fade"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Sage"
+            },
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Omen"
+            },
+            {
+              "player": "dos9",
+              "team_tag": "KC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Avez",
+              "team_tag": "KC",
+              "agent": "Fade"
+            },
+            {
+              "player": "N4RRATE",
+              "team_tag": "KC",
+              "agent": "Chamber"
+            },
+            {
+              "player": "SUYGETSU",
+              "team_tag": "KC",
+              "agent": "Viper"
+            },
+            {
+              "player": "LewN",
+              "team_tag": "KC",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "FNATIC",
+          "team2": "Karmine Corp",
+          "score": "5-13",
+          "players": [
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Chamber"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Astra"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Fade"
+            },
+            {
+              "player": "SUYGETSU",
+              "team_tag": "KC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "N4RRATE",
+              "team_tag": "KC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "LewN",
+              "team_tag": "KC",
+              "agent": "Neon"
+            },
+            {
+              "player": "dos9",
+              "team_tag": "KC",
+              "agent": "Omen"
+            },
+            {
+              "player": "Avez",
+              "team_tag": "KC",
+              "agent": "Sova"
+            }
+          ]
+        },
+        {
+          "map_name": "Fracture",
+          "team1": "FNATIC",
+          "team2": "Karmine Corp",
+          "score": "13-4",
+          "players": [
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Fade"
+            },
+            {
+              "player": "N4RRATE",
+              "team_tag": "KC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Avez",
+              "team_tag": "KC",
+              "agent": "Fade"
+            },
+            {
+              "player": "SUYGETSU",
+              "team_tag": "KC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "LewN",
+              "team_tag": "KC",
+              "agent": "Neon"
+            },
+            {
+              "player": "dos9",
+              "team_tag": "KC",
+              "agent": "Brimstone"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "FNATIC",
+          "team2": "Karmine Corp",
+          "score": "13-10",
+          "players": [
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Omen"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "SUYGETSU",
+              "team_tag": "KC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "N4RRATE",
+              "team_tag": "KC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "dos9",
+              "team_tag": "KC",
+              "agent": "Omen"
+            },
+            {
+              "player": "LewN",
+              "team_tag": "KC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Avez",
+              "team_tag": "KC",
+              "agent": "Sova"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "FNATIC",
+          "team2": "Karmine Corp",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Viper"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Harbor"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Sova"
+            },
+            {
+              "player": "SUYGETSU",
+              "team_tag": "KC",
+              "agent": "Viper"
+            },
+            {
+              "player": "dos9",
+              "team_tag": "KC",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Avez",
+              "team_tag": "KC",
+              "agent": "Sova"
+            },
+            {
+              "player": "N4RRATE",
+              "team_tag": "KC",
+              "agent": "Jett"
+            },
+            {
+              "player": "LewN",
+              "team_tag": "KC",
+              "agent": "Neon"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "674861",
       "teams": [
         "BBL Esports",
@@ -14653,16 +14954,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "675352",
-      "teams": [
-        "Xi Lai Gaming",
-        "Titan Esports Club"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Xi+Lai+Gaming+vs+Titan+Esports+Club++VOD",
-      "maps": []
     }
   ]
 }
