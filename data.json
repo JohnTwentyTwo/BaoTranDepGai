@@ -251,6 +251,191 @@
       ]
     },
     {
+      "id": "681783",
+      "teams": [
+        "Insomnia",
+        "REJECT"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Insomnia+vs+REJECT++VOD",
+      "maps": [
+        {
+          "map_name": "Breeze",
+          "team1": "Insomnia",
+          "team2": "REJECT",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "Ady",
+              "team_tag": "INS",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Karaage",
+              "team_tag": "INS",
+              "agent": "Sova"
+            },
+            {
+              "player": "Satwoshi",
+              "team_tag": "INS",
+              "agent": "Viper"
+            },
+            {
+              "player": "flora",
+              "team_tag": "INS",
+              "agent": "Jett"
+            },
+            {
+              "player": "yuki",
+              "team_tag": "INS",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "Yoshiii",
+              "team_tag": "RC",
+              "agent": "Viper"
+            },
+            {
+              "player": "Jremy",
+              "team_tag": "RC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "BRIAN",
+              "team_tag": "RC",
+              "agent": "Sova"
+            },
+            {
+              "player": "Persia",
+              "team_tag": "RC",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Dep",
+              "team_tag": "RC",
+              "agent": "Jett"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "Insomnia",
+          "team2": "REJECT",
+          "score": "13-9",
+          "players": [
+            {
+              "player": "flora",
+              "team_tag": "INS",
+              "agent": "Jett"
+            },
+            {
+              "player": "Satwoshi",
+              "team_tag": "INS",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Karaage",
+              "team_tag": "INS",
+              "agent": "Raze"
+            },
+            {
+              "player": "yuki",
+              "team_tag": "INS",
+              "agent": "Fade"
+            },
+            {
+              "player": "Ady",
+              "team_tag": "INS",
+              "agent": "Omen"
+            },
+            {
+              "player": "Dep",
+              "team_tag": "RC",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Jremy",
+              "team_tag": "RC",
+              "agent": "Raze"
+            },
+            {
+              "player": "Persia",
+              "team_tag": "RC",
+              "agent": "Omen"
+            },
+            {
+              "player": "BRIAN",
+              "team_tag": "RC",
+              "agent": "Fade"
+            },
+            {
+              "player": "Yoshiii",
+              "team_tag": "RC",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "Insomnia",
+          "team2": "REJECT",
+          "score": "8-13",
+          "players": [
+            {
+              "player": "Ady",
+              "team_tag": "INS",
+              "agent": "Astra"
+            },
+            {
+              "player": "Satwoshi",
+              "team_tag": "INS",
+              "agent": "Vyse"
+            },
+            {
+              "player": "flora",
+              "team_tag": "INS",
+              "agent": "Jett"
+            },
+            {
+              "player": "yuki",
+              "team_tag": "INS",
+              "agent": "Fade"
+            },
+            {
+              "player": "Karaage",
+              "team_tag": "INS",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Persia",
+              "team_tag": "RC",
+              "agent": "Astra"
+            },
+            {
+              "player": "Dep",
+              "team_tag": "RC",
+              "agent": "Jett"
+            },
+            {
+              "player": "Jremy",
+              "team_tag": "RC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Yoshiii",
+              "team_tag": "RC",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "BRIAN",
+              "team_tag": "RC",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681015",
       "teams": [
         "TYLOO",
@@ -14387,307 +14572,6 @@
             {
               "player": "mada",
               "team_tag": "NRG",
-              "agent": "Neon"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "660386",
-      "teams": [
-        "Team Vitality",
-        "Team Heretics"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Team+Vitality+vs+Team+Heretics++VOD",
-      "maps": [
-        {
-          "map_name": "Breeze",
-          "team1": "Team Vitality",
-          "team2": "Team Heretics",
-          "score": "13-10",
-          "players": [
-            {
-              "player": "Chronicle",
-              "team_tag": "VIT",
-              "agent": "Viper"
-            },
-            {
-              "player": "Jamppi",
-              "team_tag": "VIT",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Sayonara",
-              "team_tag": "VIT",
-              "agent": "Sova"
-            },
-            {
-              "player": "Derke",
-              "team_tag": "VIT",
-              "agent": "Jett"
-            },
-            {
-              "player": "PROFEK",
-              "team_tag": "VIT",
-              "agent": "Harbor"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Sage"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Sova"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Chamber"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Lotus",
-          "team1": "Team Vitality",
-          "team2": "Team Heretics",
-          "score": "13-15",
-          "players": [
-            {
-              "player": "Chronicle",
-              "team_tag": "VIT",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Jamppi",
-              "team_tag": "VIT",
-              "agent": "Fade"
-            },
-            {
-              "player": "Derke",
-              "team_tag": "VIT",
-              "agent": "Raze"
-            },
-            {
-              "player": "PROFEK",
-              "team_tag": "VIT",
-              "agent": "Omen"
-            },
-            {
-              "player": "Sayonara",
-              "team_tag": "VIT",
-              "agent": "Viper"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Raze"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Omen"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Fade"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "Team Vitality",
-          "team2": "Team Heretics",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "Derke",
-              "team_tag": "VIT",
-              "agent": "Neon"
-            },
-            {
-              "player": "PROFEK",
-              "team_tag": "VIT",
-              "agent": "Omen"
-            },
-            {
-              "player": "Sayonara",
-              "team_tag": "VIT",
-              "agent": "Raze"
-            },
-            {
-              "player": "Chronicle",
-              "team_tag": "VIT",
-              "agent": "Viper"
-            },
-            {
-              "player": "Jamppi",
-              "team_tag": "VIT",
-              "agent": "Fade"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Astra"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Fade"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Raze"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "Team Vitality",
-          "team2": "Team Heretics",
-          "score": "13-15",
-          "players": [
-            {
-              "player": "PROFEK",
-              "team_tag": "VIT",
-              "agent": "Omen"
-            },
-            {
-              "player": "Derke",
-              "team_tag": "VIT",
-              "agent": "Neon"
-            },
-            {
-              "player": "Sayonara",
-              "team_tag": "VIT",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Jamppi",
-              "team_tag": "VIT",
-              "agent": "Sova"
-            },
-            {
-              "player": "Chronicle",
-              "team_tag": "VIT",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Jett"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Cypher"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Sova"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Omen"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "Team Vitality",
-          "team2": "Team Heretics",
-          "score": "13-7",
-          "players": [
-            {
-              "player": "Chronicle",
-              "team_tag": "VIT",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Derke",
-              "team_tag": "VIT",
-              "agent": "Neon"
-            },
-            {
-              "player": "PROFEK",
-              "team_tag": "VIT",
-              "agent": "Astra"
-            },
-            {
-              "player": "Jamppi",
-              "team_tag": "VIT",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Sayonara",
-              "team_tag": "VIT",
-              "agent": "Sova"
-            },
-            {
-              "player": "Boo",
-              "team_tag": "TH",
-              "agent": "Astra"
-            },
-            {
-              "player": "Wo0t",
-              "team_tag": "TH",
-              "agent": "Jett"
-            },
-            {
-              "player": "RieNs",
-              "team_tag": "TH",
-              "agent": "Fade"
-            },
-            {
-              "player": "benjyfishy",
-              "team_tag": "TH",
-              "agent": "Cypher"
-            },
-            {
-              "player": "koshmaras",
-              "team_tag": "TH",
               "agent": "Neon"
             }
           ]
