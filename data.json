@@ -12,6 +12,302 @@
   ],
   "matches": [
     {
+      "id": "660380",
+      "teams": [
+        "G2 Esports",
+        "NRG"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+G2+Esports+vs+NRG++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "G2 Esports",
+          "team2": "NRG",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "trent",
+              "team_tag": "G2",
+              "agent": "Fade"
+            },
+            {
+              "player": "BABYBAY",
+              "team_tag": "G2",
+              "agent": "Vyse"
+            },
+            {
+              "player": "leaf",
+              "team_tag": "G2",
+              "agent": "Viper"
+            },
+            {
+              "player": "valyn",
+              "team_tag": "G2",
+              "agent": "Omen"
+            },
+            {
+              "player": "jawgemo",
+              "team_tag": "G2",
+              "agent": "Raze"
+            },
+            {
+              "player": "brawk",
+              "team_tag": "NRG",
+              "agent": "Vyse"
+            },
+            {
+              "player": "skuba",
+              "team_tag": "NRG",
+              "agent": "Viper"
+            },
+            {
+              "player": "keiko",
+              "team_tag": "NRG",
+              "agent": "Omen"
+            },
+            {
+              "player": "mada",
+              "team_tag": "NRG",
+              "agent": "Neon"
+            },
+            {
+              "player": "Ethan",
+              "team_tag": "NRG",
+              "agent": "Fade"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "G2 Esports",
+          "team2": "NRG",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "trent",
+              "team_tag": "G2",
+              "agent": "Sova"
+            },
+            {
+              "player": "leaf",
+              "team_tag": "G2",
+              "agent": "Astra"
+            },
+            {
+              "player": "valyn",
+              "team_tag": "G2",
+              "agent": "Harbor"
+            },
+            {
+              "player": "jawgemo",
+              "team_tag": "G2",
+              "agent": "Neon"
+            },
+            {
+              "player": "BABYBAY",
+              "team_tag": "G2",
+              "agent": "Vyse"
+            },
+            {
+              "player": "keiko",
+              "team_tag": "NRG",
+              "agent": "Jett"
+            },
+            {
+              "player": "Ethan",
+              "team_tag": "NRG",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "brawk",
+              "team_tag": "NRG",
+              "agent": "Sova"
+            },
+            {
+              "player": "mada",
+              "team_tag": "NRG",
+              "agent": "Harbor"
+            },
+            {
+              "player": "skuba",
+              "team_tag": "NRG",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "G2 Esports",
+          "team2": "NRG",
+          "score": "13-7",
+          "players": [
+            {
+              "player": "valyn",
+              "team_tag": "G2",
+              "agent": "Astra"
+            },
+            {
+              "player": "jawgemo",
+              "team_tag": "G2",
+              "agent": "Neon"
+            },
+            {
+              "player": "BABYBAY",
+              "team_tag": "G2",
+              "agent": "Vyse"
+            },
+            {
+              "player": "leaf",
+              "team_tag": "G2",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "trent",
+              "team_tag": "G2",
+              "agent": "Fade"
+            },
+            {
+              "player": "brawk",
+              "team_tag": "NRG",
+              "agent": "Sova"
+            },
+            {
+              "player": "keiko",
+              "team_tag": "NRG",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "mada",
+              "team_tag": "NRG",
+              "agent": "Neon"
+            },
+            {
+              "player": "skuba",
+              "team_tag": "NRG",
+              "agent": "Astra"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "G2 Esports",
+          "team2": "NRG",
+          "score": "10-13",
+          "players": [
+            {
+              "player": "trent",
+              "team_tag": "G2",
+              "agent": "Fade"
+            },
+            {
+              "player": "jawgemo",
+              "team_tag": "G2",
+              "agent": "Neon"
+            },
+            {
+              "player": "valyn",
+              "team_tag": "G2",
+              "agent": "Astra"
+            },
+            {
+              "player": "BABYBAY",
+              "team_tag": "G2",
+              "agent": "Chamber"
+            },
+            {
+              "player": "leaf",
+              "team_tag": "G2",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "brawk",
+              "team_tag": "NRG",
+              "agent": "Sova"
+            },
+            {
+              "player": "keiko",
+              "team_tag": "NRG",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "skuba",
+              "team_tag": "NRG",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Ethan",
+              "team_tag": "NRG",
+              "agent": "Omen"
+            },
+            {
+              "player": "mada",
+              "team_tag": "NRG",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "G2 Esports",
+          "team2": "NRG",
+          "score": "13-10",
+          "players": [
+            {
+              "player": "trent",
+              "team_tag": "G2",
+              "agent": "Sova"
+            },
+            {
+              "player": "leaf",
+              "team_tag": "G2",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "valyn",
+              "team_tag": "G2",
+              "agent": "Astra"
+            },
+            {
+              "player": "BABYBAY",
+              "team_tag": "G2",
+              "agent": "Vyse"
+            },
+            {
+              "player": "jawgemo",
+              "team_tag": "G2",
+              "agent": "Yoru"
+            },
+            {
+              "player": "brawk",
+              "team_tag": "NRG",
+              "agent": "Sova"
+            },
+            {
+              "player": "mada",
+              "team_tag": "NRG",
+              "agent": "Sage"
+            },
+            {
+              "player": "keiko",
+              "team_tag": "NRG",
+              "agent": "Jett"
+            },
+            {
+              "player": "skuba",
+              "team_tag": "NRG",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Ethan",
+              "team_tag": "NRG",
+              "agent": "Omen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "674858",
       "teams": [
         "FUT Esports",
@@ -14345,181 +14641,6 @@
               "player": "leaf",
               "team_tag": "G2",
               "agent": "Astra"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "660371",
-      "teams": [
-        "MIBR",
-        "LEVIATÁN"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+MIBR+vs+LEVIAT%C3%81N++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "MIBR",
-          "team2": "LEVIATÁN",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "tex",
-              "team_tag": "MIBR",
-              "agent": "Vyse"
-            },
-            {
-              "player": "zekken",
-              "team_tag": "MIBR",
-              "agent": "Neon"
-            },
-            {
-              "player": "Mazino",
-              "team_tag": "MIBR",
-              "agent": "Astra"
-            },
-            {
-              "player": "aspas",
-              "team_tag": "MIBR",
-              "agent": "Raze"
-            },
-            {
-              "player": "Verno",
-              "team_tag": "MIBR",
-              "agent": "Fade"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Viper"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Omen"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Fade"
-            }
-          ]
-        },
-        {
-          "map_name": "Fracture",
-          "team1": "MIBR",
-          "team2": "LEVIATÁN",
-          "score": "13-4",
-          "players": [
-            {
-              "player": "aspas",
-              "team_tag": "MIBR",
-              "agent": "Jett"
-            },
-            {
-              "player": "Verno",
-              "team_tag": "MIBR",
-              "agent": "Skye"
-            },
-            {
-              "player": "tex",
-              "team_tag": "MIBR",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Mazino",
-              "team_tag": "MIBR",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "zekken",
-              "team_tag": "MIBR",
-              "agent": "Neon"
-            },
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Breach"
-            }
-          ]
-        },
-        {
-          "map_name": "Ascent",
-          "team1": "MIBR",
-          "team2": "LEVIATÁN",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "Mazino",
-              "team_tag": "MIBR",
-              "agent": "Omen"
-            },
-            {
-              "player": "Verno",
-              "team_tag": "MIBR",
-              "agent": "Sage"
-            },
-            {
-              "player": "zekken",
-              "team_tag": "MIBR",
-              "agent": "Sova"
-            },
-            {
-              "player": "aspas",
-              "team_tag": "MIBR",
-              "agent": "Jett"
-            },
-            {
-              "player": "tex",
-              "team_tag": "MIBR",
-              "agent": "Vyse"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Sova"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Omen"
-            },
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Chamber"
             }
           ]
         }
