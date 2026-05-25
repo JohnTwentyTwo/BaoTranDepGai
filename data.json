@@ -12,6 +12,128 @@
   ],
   "matches": [
     {
+      "id": "683765",
+      "teams": [
+        "REBORN",
+        "Natus Vincere Junior"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+REBORN+vs+Natus+Vincere+Junior++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "REBORN",
+          "team2": "Natus Vincere Junior",
+          "score": "9-13",
+          "players": [
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Raze"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Skye"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Astra"
+            },
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Sage"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Omen"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Raze"
+            },
+            {
+              "player": "sizo",
+              "team_tag": "NVJ",
+              "agent": "Viper"
+            },
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Skye"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "REBORN",
+          "team2": "Natus Vincere Junior",
+          "score": "11-13",
+          "players": [
+            {
+              "player": "DeadInk",
+              "team_tag": "REBO",
+              "agent": "Jett"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Sova"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            },
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Sova"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Neon"
+            },
+            {
+              "player": "sizo",
+              "team_tag": "NVJ",
+              "agent": "Cypher"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Omen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681303",
       "teams": [
         "Asterisk",
@@ -15128,128 +15250,6 @@
               "player": "adverso",
               "team_tag": "SHI",
               "agent": "Sova"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "676020",
-      "teams": [
-        "FlyQuest RED",
-        "Ghost Gaming"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FlyQuest+RED+vs+Ghost+Gaming++VOD",
-      "maps": [
-        {
-          "map_name": "Split",
-          "team1": "FlyQuest RED",
-          "team2": "Ghost Gaming",
-          "score": "13-6",
-          "players": [
-            {
-              "player": "evv",
-              "team_tag": "FLY",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Jazzyk1ns",
-              "team_tag": "FLY",
-              "agent": "Skye"
-            },
-            {
-              "player": "melya",
-              "team_tag": "FLY",
-              "agent": "Viper"
-            },
-            {
-              "player": "theia",
-              "team_tag": "FLY",
-              "agent": "Omen"
-            },
-            {
-              "player": "marceline",
-              "team_tag": "GHST",
-              "agent": "Neon"
-            },
-            {
-              "player": "vanitas",
-              "team_tag": "GHST",
-              "agent": "Fade"
-            },
-            {
-              "player": "sarie",
-              "team_tag": "GHST",
-              "agent": "Viper"
-            },
-            {
-              "player": "Gia",
-              "team_tag": "GHST",
-              "agent": "Omen"
-            },
-            {
-              "player": "eli",
-              "team_tag": "GHST",
-              "agent": "Vyse"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "FlyQuest RED",
-          "team2": "Ghost Gaming",
-          "score": "13-8",
-          "players": [
-            {
-              "player": "melya",
-              "team_tag": "FLY",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "edith",
-              "team_tag": "FLY",
-              "agent": "Jett"
-            },
-            {
-              "player": "evv",
-              "team_tag": "FLY",
-              "agent": "Fade"
-            },
-            {
-              "player": "Jazzyk1ns",
-              "team_tag": "FLY",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "theia",
-              "team_tag": "FLY",
-              "agent": "Astra"
-            },
-            {
-              "player": "sarie",
-              "team_tag": "GHST",
-              "agent": "Chamber"
-            },
-            {
-              "player": "marceline",
-              "team_tag": "GHST",
-              "agent": "Neon"
-            },
-            {
-              "player": "vanitas",
-              "team_tag": "GHST",
-              "agent": "Fade"
-            },
-            {
-              "player": "Gia",
-              "team_tag": "GHST",
-              "agent": "Astra"
-            },
-            {
-              "player": "eli",
-              "team_tag": "GHST",
-              "agent": "Phoenix"
             }
           ]
         }
