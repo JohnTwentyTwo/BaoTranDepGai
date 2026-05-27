@@ -12,6 +12,176 @@
   ],
   "matches": [
     {
+      "id": "683770",
+      "teams": [
+        "UCAM Esports Club",
+        "REBORN"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+UCAM+Esports+Club+vs+REBORN++VOD",
+      "maps": [
+        {
+          "map_name": "Ascent",
+          "team1": "UCAM Esports Club",
+          "team2": "REBORN",
+          "score": "2-13",
+          "players": [
+            {
+              "player": "Famsii",
+              "team_tag": "UCAM",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Buld",
+              "team_tag": "UCAM",
+              "agent": "Sova"
+            },
+            {
+              "player": "B1SK",
+              "team_tag": "UCAM",
+              "agent": "Jett"
+            },
+            {
+              "player": "Jesse",
+              "team_tag": "UCAM",
+              "agent": "Omen"
+            },
+            {
+              "player": "OLIZERA",
+              "team_tag": "UCAM",
+              "agent": "Cypher"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Sova"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Yoru"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "UCAM Esports Club",
+          "team2": "REBORN",
+          "score": "3-13",
+          "players": [
+            {
+              "player": "B1SK",
+              "team_tag": "UCAM",
+              "agent": "Neon"
+            },
+            {
+              "player": "Jesse",
+              "team_tag": "UCAM",
+              "agent": "Omen"
+            },
+            {
+              "player": "Famsii",
+              "team_tag": "UCAM",
+              "agent": "Fade"
+            },
+            {
+              "player": "Buld",
+              "team_tag": "UCAM",
+              "agent": "Vyse"
+            },
+            {
+              "player": "OLIZERA",
+              "team_tag": "UCAM",
+              "agent": "Viper"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Skye"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Astra"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "UCAM Esports Club",
+          "team2": "REBORN",
+          "score": "6-13",
+          "players": [
+            {
+              "player": "Jesse",
+              "team_tag": "UCAM",
+              "agent": "Omen"
+            },
+            {
+              "player": "Famsii",
+              "team_tag": "UCAM",
+              "agent": "Fade"
+            },
+            {
+              "player": "Buld",
+              "team_tag": "UCAM",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "B1SK",
+              "team_tag": "UCAM",
+              "agent": "Raze"
+            },
+            {
+              "player": "OLIZERA",
+              "team_tag": "UCAM",
+              "agent": "Viper"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Fade"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Vyse"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681307",
       "teams": [
         "Leosun Esports",
@@ -15103,181 +15273,6 @@
               "player": "mazin",
               "team_tag": "MAS",
               "agent": "Fade"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "680276",
-      "teams": [
-        "Beşiktaş Esports",
-        "CGN Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Be%C5%9Fikta%C5%9F+Esports+vs+CGN+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Pearl",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "15-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Astra"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Fade"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Jett"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Sova"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Astra"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Ascent",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Sova"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Omen"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Viper"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Sova"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Astra"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Jett"
-            }
-          ]
-        },
-        {
-          "map_name": "Fracture",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Breach"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Jett"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Fade"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Raze"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Breach"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
             }
           ]
         }
