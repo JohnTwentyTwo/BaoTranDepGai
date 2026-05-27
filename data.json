@@ -12,6 +12,128 @@
   ],
   "matches": [
     {
+      "id": "678041",
+      "teams": [
+        "STREAMER ARENA",
+        "LAZER"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+STREAMER+ARENA+vs+LAZER++VOD",
+      "maps": [
+        {
+          "map_name": "Ascent",
+          "team1": "STREAMER ARENA",
+          "team2": "LAZER",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "Snapss",
+              "team_tag": "STA",
+              "agent": "Sova"
+            },
+            {
+              "player": "Dlas",
+              "team_tag": "STA",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Yarwiz",
+              "team_tag": "STA",
+              "agent": "Chamber"
+            },
+            {
+              "player": "Levi",
+              "team_tag": "STA",
+              "agent": "Omen"
+            },
+            {
+              "player": "Matkazeta",
+              "team_tag": "STA",
+              "agent": "Neon"
+            },
+            {
+              "player": "theory",
+              "team_tag": "LZR",
+              "agent": "Sova"
+            },
+            {
+              "player": "Mited",
+              "team_tag": "LZR",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Xhowi",
+              "team_tag": "LZR",
+              "agent": "Omen"
+            },
+            {
+              "player": "Fresht",
+              "team_tag": "LZR",
+              "agent": "KAY/O"
+            }
+          ]
+        },
+        {
+          "map_name": "Lotus",
+          "team1": "STREAMER ARENA",
+          "team2": "LAZER",
+          "score": "13-5",
+          "players": [
+            {
+              "player": "Dlas",
+              "team_tag": "STA",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Levi",
+              "team_tag": "STA",
+              "agent": "Omen"
+            },
+            {
+              "player": "Snapss",
+              "team_tag": "STA",
+              "agent": "Fade"
+            },
+            {
+              "player": "Matkazeta",
+              "team_tag": "STA",
+              "agent": "Neon"
+            },
+            {
+              "player": "Yarwiz",
+              "team_tag": "STA",
+              "agent": "Cypher"
+            },
+            {
+              "player": "theory",
+              "team_tag": "LZR",
+              "agent": "Fade"
+            },
+            {
+              "player": "Fresht",
+              "team_tag": "LZR",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Mited",
+              "team_tag": "LZR",
+              "agent": "Viper"
+            },
+            {
+              "player": "Bull3tZ",
+              "team_tag": "LZR",
+              "agent": "Raze"
+            },
+            {
+              "player": "Xhowi",
+              "team_tag": "LZR",
+              "agent": "Omen"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681522",
       "teams": [
         "FlyQuest",
@@ -15118,133 +15240,6 @@
               "player": "Annie",
               "team_tag": "BAR.GC",
               "agent": "Viper"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "680279",
-      "teams": [
-        "FOKUS",
-        "Enterprise Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FOKUS+vs+Enterprise+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Ascent",
-          "team1": "FOKUS",
-          "team2": "Enterprise Esports",
-          "score": "13-10",
-          "players": [
-            {
-              "player": "Pa1ze",
-              "team_tag": "FKS",
-              "agent": "Jett"
-            },
-            {
-              "player": "YaBoiLewis",
-              "team_tag": "FKS",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Serial",
-              "team_tag": "FKS",
-              "agent": "Cypher"
-            },
-            {
-              "player": "MOLSI",
-              "team_tag": "FKS",
-              "agent": "Omen"
-            },
-            {
-              "player": "shinnok",
-              "team_tag": "FKS",
-              "agent": "Sova"
-            },
-            {
-              "player": "MAGNUM",
-              "team_tag": "EP",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Proxh",
-              "team_tag": "EP",
-              "agent": "Omen"
-            },
-            {
-              "player": "kozzy",
-              "team_tag": "EP",
-              "agent": "Jett"
-            },
-            {
-              "player": "Lime",
-              "team_tag": "EP",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "iluri",
-              "team_tag": "EP",
-              "agent": "Sova"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "FOKUS",
-          "team2": "Enterprise Esports",
-          "score": "13-11",
-          "players": [
-            {
-              "player": "Serial",
-              "team_tag": "FKS",
-              "agent": "Cypher"
-            },
-            {
-              "player": "shinnok",
-              "team_tag": "FKS",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Pa1ze",
-              "team_tag": "FKS",
-              "agent": "Neon"
-            },
-            {
-              "player": "YaBoiLewis",
-              "team_tag": "FKS",
-              "agent": "Sova"
-            },
-            {
-              "player": "MOLSI",
-              "team_tag": "FKS",
-              "agent": "Omen"
-            },
-            {
-              "player": "kozzy",
-              "team_tag": "EP",
-              "agent": "Jett"
-            },
-            {
-              "player": "MAGNUM",
-              "team_tag": "EP",
-              "agent": "Cypher"
-            },
-            {
-              "player": "iluri",
-              "team_tag": "EP",
-              "agent": "Sova"
-            },
-            {
-              "player": "Lime",
-              "team_tag": "EP",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Proxh",
-              "team_tag": "EP",
-              "agent": "Omen"
             }
           ]
         }
