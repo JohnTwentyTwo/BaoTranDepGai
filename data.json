@@ -12,6 +12,234 @@
   ],
   "matches": [
     {
+      "id": "683768",
+      "teams": [
+        "Natus Vincere Junior",
+        "REBORN"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Natus+Vincere+Junior+vs+REBORN++VOD",
+      "maps": [
+        {
+          "map_name": "Haven",
+          "team1": "Natus Vincere Junior",
+          "team2": "REBORN",
+          "score": "9-13",
+          "players": [
+            {
+              "player": "sizo",
+              "team_tag": "NVJ",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Omen"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Neon"
+            },
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Sova"
+            },
+            {
+              "player": "DeadInk",
+              "team_tag": "REBO",
+              "agent": "Jett"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Sova"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "Natus Vincere Junior",
+          "team2": "REBORN",
+          "score": "13-10",
+          "players": [
+            {
+              "player": "sizo",
+              "team_tag": "NVJ",
+              "agent": "Viper"
+            },
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Sage"
+            },
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Skye"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Omen"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Raze"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Skye"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Astra"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Pearl",
+          "team1": "Natus Vincere Junior",
+          "team2": "REBORN",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Skye"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Astra"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Neon"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Astra"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Sova"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Cypher"
+            }
+          ]
+        },
+        {
+          "map_name": "Breeze",
+          "team1": "Natus Vincere Junior",
+          "team2": "REBORN",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "Javelin",
+              "team_tag": "NVJ",
+              "agent": "Sova"
+            },
+            {
+              "player": "avey",
+              "team_tag": "NVJ",
+              "agent": "Omen"
+            },
+            {
+              "player": "Darxcioo",
+              "team_tag": "NVJ",
+              "agent": "Jett"
+            },
+            {
+              "player": "sizo",
+              "team_tag": "NVJ",
+              "agent": "Viper"
+            },
+            {
+              "player": "Kolosha",
+              "team_tag": "NVJ",
+              "agent": "Neon"
+            },
+            {
+              "player": "Kachoww",
+              "team_tag": "REBO",
+              "agent": "Neon"
+            },
+            {
+              "player": "DeadInk",
+              "team_tag": "REBO",
+              "agent": "Chamber"
+            },
+            {
+              "player": "reazy",
+              "team_tag": "REBO",
+              "agent": "Viper"
+            },
+            {
+              "player": "hezacoil",
+              "team_tag": "REBO",
+              "agent": "Harbor"
+            },
+            {
+              "player": "batujnax",
+              "team_tag": "REBO",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "678043",
       "teams": [
         "FUEGO",
@@ -730,7 +958,7 @@
               "agent": "Jett"
             },
             {
-              "player": "DeVy",
+              "player": "devy",
               "team_tag": "YFP",
               "agent": "Sova"
             },
@@ -798,7 +1026,7 @@
               "agent": "Raze"
             },
             {
-              "player": "DeVy",
+              "player": "devy",
               "team_tag": "YFP",
               "agent": "Fade"
             },
@@ -2946,7 +3174,7 @@
               "agent": "Cypher"
             },
             {
-              "player": "DeVy",
+              "player": "devy",
               "team_tag": "YFP",
               "agent": "Fade"
             },
@@ -3009,7 +3237,7 @@
               "agent": "Phoenix"
             },
             {
-              "player": "DeVy",
+              "player": "devy",
               "team_tag": "YFP",
               "agent": "Sova"
             },
@@ -15073,133 +15301,6 @@
               "player": "Crus",
               "team_tag": "ROY",
               "agent": "Sova"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "680956",
-      "teams": [
-        "SK Nebula",
-        "G2 Gozen"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+SK+Nebula+vs+G2+Gozen++VOD",
-      "maps": [
-        {
-          "map_name": "Ascent",
-          "team1": "SK Nebula",
-          "team2": "G2 Gozen",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "fluxxy",
-              "team_tag": "SKN",
-              "agent": "Omen"
-            },
-            {
-              "player": "LizA",
-              "team_tag": "SKN",
-              "agent": "Sova"
-            },
-            {
-              "player": "rezq",
-              "team_tag": "SKN",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Joliinaa",
-              "team_tag": "SKN",
-              "agent": "Jett"
-            },
-            {
-              "player": "Thuy",
-              "team_tag": "SKN",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Akita",
-              "team_tag": "G2G",
-              "agent": "Jett"
-            },
-            {
-              "player": "eva",
-              "team_tag": "G2G",
-              "agent": "Sova"
-            },
-            {
-              "player": "amy",
-              "team_tag": "G2G",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Vania",
-              "team_tag": "G2G",
-              "agent": "Omen"
-            },
-            {
-              "player": "mimi",
-              "team_tag": "G2G",
-              "agent": "KAY/O"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "SK Nebula",
-          "team2": "G2 Gozen",
-          "score": "7-13",
-          "players": [
-            {
-              "player": "fluxxy",
-              "team_tag": "SKN",
-              "agent": "Astra"
-            },
-            {
-              "player": "LizA",
-              "team_tag": "SKN",
-              "agent": "Fade"
-            },
-            {
-              "player": "Thuy",
-              "team_tag": "SKN",
-              "agent": "Viper"
-            },
-            {
-              "player": "rezq",
-              "team_tag": "SKN",
-              "agent": "Skye"
-            },
-            {
-              "player": "Joliinaa",
-              "team_tag": "SKN",
-              "agent": "Neon"
-            },
-            {
-              "player": "eva",
-              "team_tag": "G2G",
-              "agent": "Fade"
-            },
-            {
-              "player": "amy",
-              "team_tag": "G2G",
-              "agent": "Viper"
-            },
-            {
-              "player": "Vania",
-              "team_tag": "G2G",
-              "agent": "Omen"
-            },
-            {
-              "player": "Akita",
-              "team_tag": "G2G",
-              "agent": "Neon"
-            },
-            {
-              "player": "mimi",
-              "team_tag": "G2G",
-              "agent": "Vyse"
             }
           ]
         }
