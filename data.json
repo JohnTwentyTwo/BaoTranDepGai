@@ -12,6 +12,133 @@
   ],
   "matches": [
     {
+      "id": "681919",
+      "teams": [
+        "LA MASIA",
+        "Team Liquid Brazil"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+LA+MASIA+vs+Team+Liquid+Brazil++VOD",
+      "maps": [
+        {
+          "map_name": "Breeze",
+          "team1": "LA MASIA",
+          "team2": "Team Liquid Brazil",
+          "score": "13-7",
+          "players": [
+            {
+              "player": "tuyz",
+              "team_tag": "MAS",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Zanatsu",
+              "team_tag": "MAS",
+              "agent": "Sova"
+            },
+            {
+              "player": "Palla",
+              "team_tag": "MAS",
+              "agent": "Neon"
+            },
+            {
+              "player": "jzz",
+              "team_tag": "MAS",
+              "agent": "Vyse"
+            },
+            {
+              "player": "mazin",
+              "team_tag": "MAS",
+              "agent": "Omen"
+            },
+            {
+              "player": "daiki",
+              "team_tag": "TLV",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "Joojina",
+              "team_tag": "TLV",
+              "agent": "Harbor"
+            },
+            {
+              "player": "Jelly",
+              "team_tag": "TLV",
+              "agent": "Jett"
+            },
+            {
+              "player": "Bizerra",
+              "team_tag": "TLV",
+              "agent": "Sova"
+            },
+            {
+              "player": "isaa",
+              "team_tag": "TLV",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "LA MASIA",
+          "team2": "Team Liquid Brazil",
+          "score": "13-3",
+          "players": [
+            {
+              "player": "Palla",
+              "team_tag": "MAS",
+              "agent": "Jett"
+            },
+            {
+              "player": "mazin",
+              "team_tag": "MAS",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "tuyz",
+              "team_tag": "MAS",
+              "agent": "Omen"
+            },
+            {
+              "player": "Zanatsu",
+              "team_tag": "MAS",
+              "agent": "Sova"
+            },
+            {
+              "player": "jzz",
+              "team_tag": "MAS",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Bizerra",
+              "team_tag": "TLV",
+              "agent": "Sova"
+            },
+            {
+              "player": "isaa",
+              "team_tag": "TLV",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "Jelly",
+              "team_tag": "TLV",
+              "agent": "Jett"
+            },
+            {
+              "player": "Joojina",
+              "team_tag": "TLV",
+              "agent": "Omen"
+            },
+            {
+              "player": "daiki",
+              "team_tag": "TLV",
+              "agent": "KAY/O"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681762",
       "teams": [
         "Sharper Esports",
@@ -15179,191 +15306,6 @@
               "player": "bang",
               "team_tag": "100T",
               "agent": "Harbor"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "660373",
-      "teams": [
-        "LEVIATÁN",
-        "G2 Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+LEVIAT%C3%81N+vs+G2+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Ascent",
-          "team1": "LEVIATÁN",
-          "team2": "G2 Esports",
-          "score": "13-7",
-          "players": [
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Chamber"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Sova"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Omen"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "trent",
-              "team_tag": "G2",
-              "agent": "Sova"
-            },
-            {
-              "player": "valyn",
-              "team_tag": "G2",
-              "agent": "Astra"
-            },
-            {
-              "player": "BABYBAY",
-              "team_tag": "G2",
-              "agent": "Vyse"
-            },
-            {
-              "player": "leaf",
-              "team_tag": "G2",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "jawgemo",
-              "team_tag": "G2",
-              "agent": "Yoru"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "LEVIATÁN",
-          "team2": "G2 Esports",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Sova"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Astra"
-            },
-            {
-              "player": "BABYBAY",
-              "team_tag": "G2",
-              "agent": "Vyse"
-            },
-            {
-              "player": "valyn",
-              "team_tag": "G2",
-              "agent": "Astra"
-            },
-            {
-              "player": "trent",
-              "team_tag": "G2",
-              "agent": "Fade"
-            },
-            {
-              "player": "jawgemo",
-              "team_tag": "G2",
-              "agent": "Neon"
-            },
-            {
-              "player": "leaf",
-              "team_tag": "G2",
-              "agent": "Phoenix"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "LEVIATÁN",
-          "team2": "G2 Esports",
-          "score": "13-5",
-          "players": [
-            {
-              "player": "Sato",
-              "team_tag": "LEV",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "kiNgg",
-              "team_tag": "LEV",
-              "agent": "Viper"
-            },
-            {
-              "player": "Neon",
-              "team_tag": "LEV",
-              "agent": "Omen"
-            },
-            {
-              "player": "blowz",
-              "team_tag": "LEV",
-              "agent": "Fade"
-            },
-            {
-              "player": "spike",
-              "team_tag": "LEV",
-              "agent": "Neon"
-            },
-            {
-              "player": "leaf",
-              "team_tag": "G2",
-              "agent": "Viper"
-            },
-            {
-              "player": "trent",
-              "team_tag": "G2",
-              "agent": "Fade"
-            },
-            {
-              "player": "BABYBAY",
-              "team_tag": "G2",
-              "agent": "Vyse"
-            },
-            {
-              "player": "valyn",
-              "team_tag": "G2",
-              "agent": "Astra"
-            },
-            {
-              "player": "jawgemo",
-              "team_tag": "G2",
-              "agent": "Raze"
             }
           ]
         }
