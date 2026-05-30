@@ -12,6 +12,191 @@
   ],
   "matches": [
     {
+      "id": "681920",
+      "teams": [
+        "ELEVATE",
+        "INTZ"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+ELEVATE+vs+INTZ++VOD",
+      "maps": [
+        {
+          "map_name": "Lotus",
+          "team1": "ELEVATE",
+          "team2": "INTZ",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "kramarick",
+              "team_tag": "ELV",
+              "agent": "Chamber"
+            },
+            {
+              "player": "nicksz",
+              "team_tag": "ELV",
+              "agent": "Viper"
+            },
+            {
+              "player": "dth",
+              "team_tag": "ELV",
+              "agent": "Omen"
+            },
+            {
+              "player": "Tiezzi",
+              "team_tag": "ELV",
+              "agent": "Raze"
+            },
+            {
+              "player": "v1nny",
+              "team_tag": "ELV",
+              "agent": "Fade"
+            },
+            {
+              "player": "Siduzord",
+              "team_tag": "INTZ",
+              "agent": "Fade"
+            },
+            {
+              "player": "Askia",
+              "team_tag": "INTZ",
+              "agent": "Omen"
+            },
+            {
+              "player": "guuih",
+              "team_tag": "INTZ",
+              "agent": "Vyse"
+            },
+            {
+              "player": "Tisora",
+              "team_tag": "INTZ",
+              "agent": "Raze"
+            },
+            {
+              "player": "PxS",
+              "team_tag": "INTZ",
+              "agent": "Viper"
+            }
+          ]
+        },
+        {
+          "map_name": "Haven",
+          "team1": "ELEVATE",
+          "team2": "INTZ",
+          "score": "13-8",
+          "players": [
+            {
+              "player": "kramarick",
+              "team_tag": "ELV",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Tiezzi",
+              "team_tag": "ELV",
+              "agent": "Neon"
+            },
+            {
+              "player": "v1nny",
+              "team_tag": "ELV",
+              "agent": "Sova"
+            },
+            {
+              "player": "dth",
+              "team_tag": "ELV",
+              "agent": "Omen"
+            },
+            {
+              "player": "nicksz",
+              "team_tag": "ELV",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Siduzord",
+              "team_tag": "INTZ",
+              "agent": "Sova"
+            },
+            {
+              "player": "PxS",
+              "team_tag": "INTZ",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Askia",
+              "team_tag": "INTZ",
+              "agent": "Omen"
+            },
+            {
+              "player": "Tisora",
+              "team_tag": "INTZ",
+              "agent": "Jett"
+            },
+            {
+              "player": "guuih",
+              "team_tag": "INTZ",
+              "agent": "Cypher"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "ELEVATE",
+          "team2": "INTZ",
+          "score": "13-11",
+          "players": [
+            {
+              "player": "Tiezzi",
+              "team_tag": "ELV",
+              "agent": "Raze"
+            },
+            {
+              "player": "dth",
+              "team_tag": "ELV",
+              "agent": "Omen"
+            },
+            {
+              "player": "kramarick",
+              "team_tag": "ELV",
+              "agent": "Chamber"
+            },
+            {
+              "player": "v1nny",
+              "team_tag": "ELV",
+              "agent": "Skye"
+            },
+            {
+              "player": "nicksz",
+              "team_tag": "ELV",
+              "agent": "Viper"
+            },
+            {
+              "player": "PxS",
+              "team_tag": "INTZ",
+              "agent": "Raze"
+            },
+            {
+              "player": "Siduzord",
+              "team_tag": "INTZ",
+              "agent": "Skye"
+            },
+            {
+              "player": "Askia",
+              "team_tag": "INTZ",
+              "agent": "Omen"
+            },
+            {
+              "player": "guuih",
+              "team_tag": "INTZ",
+              "agent": "Viper"
+            },
+            {
+              "player": "Tisora",
+              "team_tag": "INTZ",
+              "agent": "Jett"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681639",
       "teams": [
         "SwimTrek Blue",
@@ -15040,133 +15225,6 @@
               "player": "YESicaN",
               "team_tag": "FCY",
               "agent": "Breach"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "681781",
-      "teams": [
-        "AGELITE",
-        "FENNEL"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+AGELITE+vs+FENNEL++VOD",
-      "maps": [
-        {
-          "map_name": "Lotus",
-          "team1": "AGELITE",
-          "team2": "FENNEL",
-          "score": "4-13",
-          "players": [
-            {
-              "player": "fukukeN",
-              "team_tag": "AGL",
-              "agent": "Omen"
-            },
-            {
-              "player": "Banger",
-              "team_tag": "AGL",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Moothie",
-              "team_tag": "AGL",
-              "agent": "Viper"
-            },
-            {
-              "player": "Sayu",
-              "team_tag": "AGL",
-              "agent": "Raze"
-            },
-            {
-              "player": "Allen",
-              "team_tag": "AGL",
-              "agent": "Fade"
-            },
-            {
-              "player": "Aace",
-              "team_tag": "FL",
-              "agent": "Raze"
-            },
-            {
-              "player": "GangPin",
-              "team_tag": "FL",
-              "agent": "Omen"
-            },
-            {
-              "player": "CLZ",
-              "team_tag": "FL",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Hals",
-              "team_tag": "FL",
-              "agent": "Viper"
-            },
-            {
-              "player": "Anthem",
-              "team_tag": "FL",
-              "agent": "Fade"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "AGELITE",
-          "team2": "FENNEL",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "Banger",
-              "team_tag": "AGL",
-              "agent": "Raze"
-            },
-            {
-              "player": "Sayu",
-              "team_tag": "AGL",
-              "agent": "Neon"
-            },
-            {
-              "player": "Allen",
-              "team_tag": "AGL",
-              "agent": "Fade"
-            },
-            {
-              "player": "Moothie",
-              "team_tag": "AGL",
-              "agent": "Viper"
-            },
-            {
-              "player": "fukukeN",
-              "team_tag": "AGL",
-              "agent": "Omen"
-            },
-            {
-              "player": "GangPin",
-              "team_tag": "FL",
-              "agent": "Omen"
-            },
-            {
-              "player": "Aace",
-              "team_tag": "FL",
-              "agent": "Jett"
-            },
-            {
-              "player": "CLZ",
-              "team_tag": "FL",
-              "agent": "Viper"
-            },
-            {
-              "player": "Hals",
-              "team_tag": "FL",
-              "agent": "Sage"
-            },
-            {
-              "player": "Anthem",
-              "team_tag": "FL",
-              "agent": "Fade"
             }
           ]
         }
