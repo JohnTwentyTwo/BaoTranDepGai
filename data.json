@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "count": 101,
+  "count": 100,
   "map_pool": [
     "Ascent",
     "Breeze",
@@ -11,6 +11,186 @@
     "Split"
   ],
   "matches": [
+    {
+      "id": "674862",
+      "teams": [
+        "FNATIC",
+        "Natus Vincere"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+FNATIC+vs+Natus+Vincere++VOD",
+      "maps": [
+        {
+          "map_name": "Ascent",
+          "team1": "FNATIC",
+          "team2": "Natus Vincere",
+          "score": "15-13",
+          "players": [
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Sova"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "KAY/O"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Omen"
+            },
+            {
+              "player": "hiro",
+              "team_tag": "NAVI",
+              "agent": "Cypher"
+            },
+            {
+              "player": "Filu",
+              "team_tag": "NAVI",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "chloric",
+              "team_tag": "NAVI",
+              "agent": "Sova"
+            },
+            {
+              "player": "Ruxic",
+              "team_tag": "NAVI",
+              "agent": "Omen"
+            },
+            {
+              "player": "ExiT",
+              "team_tag": "NAVI",
+              "agent": "Neon"
+            }
+          ]
+        },
+        {
+          "map_name": "Split",
+          "team1": "FNATIC",
+          "team2": "Natus Vincere",
+          "score": "11-13",
+          "players": [
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "Viper"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Skye"
+            },
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Astra"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "ExiT",
+              "team_tag": "NAVI",
+              "agent": "Neon"
+            },
+            {
+              "player": "Filu",
+              "team_tag": "NAVI",
+              "agent": "Raze"
+            },
+            {
+              "player": "chloric",
+              "team_tag": "NAVI",
+              "agent": "Fade"
+            },
+            {
+              "player": "hiro",
+              "team_tag": "NAVI",
+              "agent": "Viper"
+            },
+            {
+              "player": "Ruxic",
+              "team_tag": "NAVI",
+              "agent": "Omen"
+            }
+          ]
+        },
+        {
+          "map_name": "Fracture",
+          "team1": "FNATIC",
+          "team2": "Natus Vincere",
+          "score": "11-13",
+          "players": [
+            {
+              "player": "Boaster",
+              "team_tag": "FNC",
+              "agent": "Brimstone"
+            },
+            {
+              "player": "CyvOph",
+              "team_tag": "FNC",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Alfajer",
+              "team_tag": "FNC",
+              "agent": "Cypher"
+            },
+            {
+              "player": "crashies",
+              "team_tag": "FNC",
+              "agent": "Fade"
+            },
+            {
+              "player": "kaajak",
+              "team_tag": "FNC",
+              "agent": "Neon"
+            },
+            {
+              "player": "Ruxic",
+              "team_tag": "NAVI",
+              "agent": "Omen"
+            },
+            {
+              "player": "Filu",
+              "team_tag": "NAVI",
+              "agent": "Chamber"
+            },
+            {
+              "player": "ExiT",
+              "team_tag": "NAVI",
+              "agent": "Neon"
+            },
+            {
+              "player": "hiro",
+              "team_tag": "NAVI",
+              "agent": "Viper"
+            },
+            {
+              "player": "chloric",
+              "team_tag": "NAVI",
+              "agent": "Fade"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "681764",
       "teams": [
@@ -14644,366 +14824,6 @@
               "player": "xavi8k",
               "team_tag": "GE",
               "agent": "Sova"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "675208",
-      "teams": [
-        "T1",
-        "DetonatioN FocusMe"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+T1+vs+DetonatioN+FocusMe++VOD",
-      "maps": [
-        {
-          "map_name": "Ascent",
-          "team1": "T1",
-          "team2": "DetonatioN FocusMe",
-          "score": "13-9",
-          "players": [
-            {
-              "player": "iZu",
-              "team_tag": "T1",
-              "agent": "Sova"
-            },
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Killjoy"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Jett"
-            },
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Omen"
-            },
-            {
-              "player": "Meiy",
-              "team_tag": "DFM",
-              "agent": "Jett"
-            },
-            {
-              "player": "SSeeS",
-              "team_tag": "DFM",
-              "agent": "Omen"
-            },
-            {
-              "player": "Caedye",
-              "team_tag": "DFM",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Akame",
-              "team_tag": "DFM",
-              "agent": "Neon"
-            },
-            {
-              "player": "yatsuka",
-              "team_tag": "DFM",
-              "agent": "Sova"
-            }
-          ]
-        },
-        {
-          "map_name": "Split",
-          "team1": "T1",
-          "team2": "DetonatioN FocusMe",
-          "score": "11-13",
-          "players": [
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Omen"
-            },
-            {
-              "player": "iZu",
-              "team_tag": "T1",
-              "agent": "Jett"
-            },
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Viper"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Raze"
-            },
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "Skye"
-            },
-            {
-              "player": "Meiy",
-              "team_tag": "DFM",
-              "agent": "Jett"
-            },
-            {
-              "player": "Akame",
-              "team_tag": "DFM",
-              "agent": "Raze"
-            },
-            {
-              "player": "yatsuka",
-              "team_tag": "DFM",
-              "agent": "Skye"
-            },
-            {
-              "player": "SSeeS",
-              "team_tag": "DFM",
-              "agent": "Omen"
-            },
-            {
-              "player": "Caedye",
-              "team_tag": "DFM",
-              "agent": "Viper"
-            }
-          ]
-        },
-        {
-          "map_name": "Haven",
-          "team1": "T1",
-          "team2": "DetonatioN FocusMe",
-          "score": "13-8",
-          "players": [
-            {
-              "player": "iZu",
-              "team_tag": "T1",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Munchkin",
-              "team_tag": "T1",
-              "agent": "Omen"
-            },
-            {
-              "player": "BuZz",
-              "team_tag": "T1",
-              "agent": "Neon"
-            },
-            {
-              "player": "Meteor",
-              "team_tag": "T1",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "stax",
-              "team_tag": "T1",
-              "agent": "Sova"
-            },
-            {
-              "player": "Caedye",
-              "team_tag": "DFM",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Meiy",
-              "team_tag": "DFM",
-              "agent": "Jett"
-            },
-            {
-              "player": "SSeeS",
-              "team_tag": "DFM",
-              "agent": "Omen"
-            },
-            {
-              "player": "Akame",
-              "team_tag": "DFM",
-              "agent": "Neon"
-            },
-            {
-              "player": "yatsuka",
-              "team_tag": "DFM",
-              "agent": "Skye"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "680276",
-      "teams": [
-        "Beşiktaş Esports",
-        "CGN Esports"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+Be%C5%9Fikta%C5%9F+Esports+vs+CGN+Esports++VOD",
-      "maps": [
-        {
-          "map_name": "Pearl",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "15-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Astra"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Fade"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Jett"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Sova"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Astra"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Neon"
-            }
-          ]
-        },
-        {
-          "map_name": "Ascent",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "10-13",
-          "players": [
-            {
-              "player": "oroni",
-              "team_tag": "BJK",
-              "agent": "Sova"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Omen"
-            },
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Viper"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Sova"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Astra"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Jett"
-            }
-          ]
-        },
-        {
-          "map_name": "Fracture",
-          "team1": "Beşiktaş Esports",
-          "team2": "CGN Esports",
-          "score": "9-13",
-          "players": [
-            {
-              "player": "wezzy",
-              "team_tag": "BJK",
-              "agent": "Cypher"
-            },
-            {
-              "player": "Docent",
-              "team_tag": "BJK",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "MerSa",
-              "team_tag": "BJK",
-              "agent": "Breach"
-            },
-            {
-              "player": "influx",
-              "team_tag": "BJK",
-              "agent": "Jett"
-            },
-            {
-              "player": "DaviH",
-              "team_tag": "CGN",
-              "agent": "Fade"
-            },
-            {
-              "player": "samed",
-              "team_tag": "CGN",
-              "agent": "Raze"
-            },
-            {
-              "player": "Zyppan",
-              "team_tag": "CGN",
-              "agent": "Breach"
-            },
-            {
-              "player": "Vince",
-              "team_tag": "CGN",
-              "agent": "Brimstone"
-            },
-            {
-              "player": "Wolfen",
-              "team_tag": "CGN",
-              "agent": "Cypher"
             }
           ]
         }
