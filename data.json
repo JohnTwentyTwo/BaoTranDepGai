@@ -12,6 +12,133 @@
   ],
   "matches": [
     {
+      "id": "681313",
+      "teams": [
+        "XØ IND",
+        "S8UL Esports"
+      ],
+      "event": "",
+      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+X%C3%98+IND+vs+S8UL+Esports++VOD",
+      "maps": [
+        {
+          "map_name": "Split",
+          "team1": "XØ IND",
+          "team2": "S8UL Esports",
+          "score": "5-13",
+          "players": [
+            {
+              "player": "SavageYoddha",
+              "team_tag": "XOGG",
+              "agent": "Omen"
+            },
+            {
+              "player": "SmokeA",
+              "team_tag": "XOGG",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "FNooB",
+              "team_tag": "XOGG",
+              "agent": "Skye"
+            },
+            {
+              "player": "RozsteR",
+              "team_tag": "XOGG",
+              "agent": "Jett"
+            },
+            {
+              "player": "Kladenstein",
+              "team_tag": "XOGG",
+              "agent": "Raze"
+            },
+            {
+              "player": "xexxar",
+              "team_tag": "S8UL",
+              "agent": "Jett"
+            },
+            {
+              "player": "Anq",
+              "team_tag": "S8UL",
+              "agent": "Omen"
+            },
+            {
+              "player": "SkRossi",
+              "team_tag": "S8UL",
+              "agent": "Viper"
+            },
+            {
+              "player": "Yuvi",
+              "team_tag": "S8UL",
+              "agent": "Raze"
+            },
+            {
+              "player": "RvK",
+              "team_tag": "S8UL",
+              "agent": "Skye"
+            }
+          ]
+        },
+        {
+          "map_name": "Ascent",
+          "team1": "XØ IND",
+          "team2": "S8UL Esports",
+          "score": "7-13",
+          "players": [
+            {
+              "player": "SmokeA",
+              "team_tag": "XOGG",
+              "agent": "Sova"
+            },
+            {
+              "player": "RozsteR",
+              "team_tag": "XOGG",
+              "agent": "Jett"
+            },
+            {
+              "player": "SavageYoddha",
+              "team_tag": "XOGG",
+              "agent": "Omen"
+            },
+            {
+              "player": "FNooB",
+              "team_tag": "XOGG",
+              "agent": "Killjoy"
+            },
+            {
+              "player": "Kladenstein",
+              "team_tag": "XOGG",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Yuvi",
+              "team_tag": "S8UL",
+              "agent": "Phoenix"
+            },
+            {
+              "player": "Anq",
+              "team_tag": "S8UL",
+              "agent": "Omen"
+            },
+            {
+              "player": "xexxar",
+              "team_tag": "S8UL",
+              "agent": "Jett"
+            },
+            {
+              "player": "SkRossi",
+              "team_tag": "S8UL",
+              "agent": "Cypher"
+            },
+            {
+              "player": "RvK",
+              "team_tag": "S8UL",
+              "agent": "Sova"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "681312",
       "teams": [
         "No Salary Peek",
@@ -696,27 +823,27 @@
           "players": [
             {
               "player": "katie",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Neon"
             },
             {
               "player": "Nini",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Omen"
             },
             {
               "player": "Ayumi",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Sova"
             },
             {
               "player": "vevs",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Viper"
             },
             {
               "player": "Trwizy",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Killjoy"
             },
             {
@@ -754,27 +881,27 @@
           "players": [
             {
               "player": "katie",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Raze"
             },
             {
               "player": "Ayumi",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Fade"
             },
             {
               "player": "Trwizy",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Vyse"
             },
             {
               "player": "vevs",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Viper"
             },
             {
               "player": "Nini",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Omen"
             },
             {
@@ -812,27 +939,27 @@
           "players": [
             {
               "player": "katie",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Raze"
             },
             {
               "player": "Nini",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Omen"
             },
             {
               "player": "Trwizy",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Breach"
             },
             {
               "player": "vevs",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Viper"
             },
             {
               "player": "Ayumi",
-              "team_tag": "Aras",
+              "team_tag": "ARS",
               "agent": "Skye"
             },
             {
@@ -14608,133 +14735,6 @@
               "player": "Roses",
               "team_tag": "AB3",
               "agent": "Clove"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "681518",
-      "teams": [
-        "M80",
-        "ROSE"
-      ],
-      "event": "",
-      "vod": "https://duckduckgo.com/?q=%5Csite%3Ayoutube.com+Valorant+M80+vs+ROSE++VOD",
-      "maps": [
-        {
-          "map_name": "Lotus",
-          "team1": "M80",
-          "team2": "ROSE",
-          "score": "13-4",
-          "players": [
-            {
-              "player": "Boni",
-              "team_tag": "M80",
-              "agent": "Raze"
-            },
-            {
-              "player": "Spaz",
-              "team_tag": "M80",
-              "agent": "Viper"
-            },
-            {
-              "player": "NiSMO",
-              "team_tag": "M80",
-              "agent": "Omen"
-            },
-            {
-              "player": "alvinboy",
-              "team_tag": "M80",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Kyu",
-              "team_tag": "M80",
-              "agent": "Fade"
-            },
-            {
-              "player": "RetrQ",
-              "team_tag": "ROSE",
-              "agent": "Vyse"
-            },
-            {
-              "player": "Tim",
-              "team_tag": "ROSE",
-              "agent": "Clove"
-            },
-            {
-              "player": "k0rupt",
-              "team_tag": "ROSE",
-              "agent": "Fade"
-            },
-            {
-              "player": "CHAROD",
-              "team_tag": "ROSE",
-              "agent": "Omen"
-            },
-            {
-              "player": "Bob",
-              "team_tag": "ROSE",
-              "agent": "Raze"
-            }
-          ]
-        },
-        {
-          "map_name": "Pearl",
-          "team1": "M80",
-          "team2": "ROSE",
-          "score": "13-4",
-          "players": [
-            {
-              "player": "NiSMO",
-              "team_tag": "M80",
-              "agent": "KAY/O"
-            },
-            {
-              "player": "Spaz",
-              "team_tag": "M80",
-              "agent": "Astra"
-            },
-            {
-              "player": "Kyu",
-              "team_tag": "M80",
-              "agent": "Sova"
-            },
-            {
-              "player": "alvinboy",
-              "team_tag": "M80",
-              "agent": "Chamber"
-            },
-            {
-              "player": "Boni",
-              "team_tag": "M80",
-              "agent": "Neon"
-            },
-            {
-              "player": "Bob",
-              "team_tag": "ROSE",
-              "agent": "Neon"
-            },
-            {
-              "player": "k0rupt",
-              "team_tag": "ROSE",
-              "agent": "Astra"
-            },
-            {
-              "player": "Tim",
-              "team_tag": "ROSE",
-              "agent": "Phoenix"
-            },
-            {
-              "player": "CHAROD",
-              "team_tag": "ROSE",
-              "agent": "Chamber"
-            },
-            {
-              "player": "RetrQ",
-              "team_tag": "ROSE",
-              "agent": "Fade"
             }
           ]
         }
